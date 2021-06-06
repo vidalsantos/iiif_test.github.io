@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/Bodlean_manifest_range.json",
+	"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/Bodlean_manifest_static.json",
 	"@type": "sc:Manifest",
 	"label": "Cancionero musical popular español",
 	"metadata": [],
