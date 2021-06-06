@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 3158,
-  "@id" : "http://localhost:8887/iiif/DSC5029_2R",
+  "@id" : "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5029_2R",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 4654
 }
