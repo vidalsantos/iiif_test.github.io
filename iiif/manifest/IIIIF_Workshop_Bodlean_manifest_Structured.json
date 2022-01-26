@@ -1,0 +1,1239 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://d7cc270c-e779-4928-81c8-35e81988aceb",
+	"@type": "sc:Manifest",
+	"label": "Cancionero musical popular español ",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "test manifest",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://dc0322e9-4a76-4ed5-82cd-6044553c1af9",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://f2fd1ea9-807f-4fd4-aab6-ed3267d9b92d",
+					"@type": "sc:Canvas",
+					"label": "Coberta",
+					"height": 6526,
+					"width": 4422,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8505e5ea-ba7c-4c83-9525-6f96c576bf8a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5025/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5025",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 6526,
+								"width": 4422
+							},
+							"on": "http://f2fd1ea9-807f-4fd4-aab6-ed3267d9b92d"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://a4f4dd38-25ca-411d-8f22-bce62cb3b3df",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://18c48838-4aee-42bc-aa58-87575992d7e3",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5025_1/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5025_1",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://a4f4dd38-25ca-411d-8f22-bce62cb3b3df"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://ea9b5977-464a-413d-a5c1-f43d93394220",
+					"@type": "sc:Canvas",
+					"label": "Portada",
+					"height": 6656,
+					"width": 4296,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://472a94de-7fea-4939-90c0-38287cbddf1f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5026/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5026",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 6656,
+								"width": 4296
+							},
+							"on": "http://ea9b5977-464a-413d-a5c1-f43d93394220"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://594ffdf7-4c28-4f7c-b93b-02b09aa9787a",
+					"@type": "sc:Canvas",
+					"label": "Proemio",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://43641f67-2bee-40df-a321-9cd91a688337",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5027_2R/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5027_2R",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://594ffdf7-4c28-4f7c-b93b-02b09aa9787a"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://8696663e-1fcd-43cd-ac72-c85e28b199b7",
+					"@type": "sc:Canvas",
+					"label": "10",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://0c143257-64f9-442f-9224-b49a7c8f6672",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5028_1L/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5028_1L",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://8696663e-1fcd-43cd-ac72-c85e28b199b7"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://648d306d-e11b-4944-9a78-beb26d91c8d0",
+					"@type": "sc:Canvas",
+					"label": "11",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://abc5a038-5f5c-4678-9d4f-0f4f6a887146",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5028_2R/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5028_2R",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://648d306d-e11b-4944-9a78-beb26d91c8d0"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://62837333-4477-4551-95bd-765a16ecdf0f",
+					"@type": "sc:Canvas",
+					"label": "12",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://4c2d93d0-8c15-435d-8102-c8c3bf383214",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5029_1L/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5029_1L",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://62837333-4477-4551-95bd-765a16ecdf0f"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://9e2220d5-d014-476f-ab82-35a9d381a9e6",
+					"@type": "sc:Canvas",
+					"label": "13",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://4de4fa3c-eff4-4a9f-ade8-a30a42dae4d1",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5029_2R/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5029_2R",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://9e2220d5-d014-476f-ab82-35a9d381a9e6"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://e7df2765-f898-42ba-b356-30e328a80cd6",
+					"@type": "sc:Canvas",
+					"label": "14",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://dea36c48-fd4b-4f88-82a9-ac9d7bbe9f53",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5030_1L/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5030_1L",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://e7df2765-f898-42ba-b356-30e328a80cd6"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://a84d940b-c53b-41bc-9c91-37f243f93ec4",
+					"@type": "sc:Canvas",
+					"label": "15",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://7aa945f1-83c8-4351-ac05-0e6c6e1a82cd",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5030_2R/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5030_2R",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://a84d940b-c53b-41bc-9c91-37f243f93ec4"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://5c744a5a-f6c9-4702-b7b8-9c47e461f08e",
+					"@type": "sc:Canvas",
+					"label": "16",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://348623d2-9c88-4043-832e-cb62703c2fd9",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5031_1L/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5031_1L",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://5c744a5a-f6c9-4702-b7b8-9c47e461f08e"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://a6974d59-a953-4599-8d62-fe61d67cb72e",
+					"@type": "sc:Canvas",
+					"label": "Primera parte",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://e39ec420-3ab3-480a-87ef-54957a631891",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5031_2R/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5031_2R",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://a6974d59-a953-4599-8d62-fe61d67cb72e"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://a322b572-16d4-4395-b3bb-665fdd7c340d",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://c9302c0f-0320-4b6e-8145-658be01e6355",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5032_1L/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5032_1L",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://a322b572-16d4-4395-b3bb-665fdd7c340d"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://ec5c19fa-ee45-4e5f-9944-18f5615f07ff",
+					"@type": "sc:Canvas",
+					"label": "Sección primera",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://904440b8-4154-4405-a0ea-992421e99557",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5032_2R/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5032_2R",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://ec5c19fa-ee45-4e5f-9944-18f5615f07ff"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://737f007d-c9a6-4e9f-831c-94b9179ab462",
+					"@type": "sc:Canvas",
+					"label": "46",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d881e0b3-8064-4cef-8d29-c16963e19140",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5033_1L/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5033_1L",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://737f007d-c9a6-4e9f-831c-94b9179ab462"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://405c4791-774e-4e97-ad2b-81b940a9099a",
+					"@type": "sc:Canvas",
+					"label": "47",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://fd3758bb-e09e-409b-8ed1-a37ae751cb09",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5033_2R/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5033_2R",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://405c4791-774e-4e97-ad2b-81b940a9099a"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://cf88d714-d781-41c7-bc0d-ea777847fd0a",
+					"@type": "sc:Canvas",
+					"label": "48",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://789a5443-050e-4294-80bd-4df1e56408b0",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5034_1L/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5034_1L",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://cf88d714-d781-41c7-bc0d-ea777847fd0a"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://b1a74834-3f8f-40d1-92d7-35ace862baf6",
+					"@type": "sc:Canvas",
+					"label": "49",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://f90d1416-80a3-4484-ac07-b8338f2b2f5a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5034_2R/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5034_2R",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://b1a74834-3f8f-40d1-92d7-35ace862baf6"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://26c781ad-889b-41c4-b169-7b81e99c3ff3",
+					"@type": "sc:Canvas",
+					"label": "50",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://09e593df-8078-4814-a5b1-9c0b551969a6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5035_1L/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5035_1L",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://26c781ad-889b-41c4-b169-7b81e99c3ff3"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://b2eea75e-811d-4a73-a1f6-486543b24737",
+					"@type": "sc:Canvas",
+					"label": "51",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://2f9bf326-be9e-49a6-b23f-df35f00f6837",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5035_2R/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5035_2R",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://b2eea75e-811d-4a73-a1f6-486543b24737"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://345a8960-341e-493c-964a-7ef107258ddd",
+					"@type": "sc:Canvas",
+					"label": "52",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://75e60398-5711-41f3-a95c-2edad97ec491",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5036_1L/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5036_1L",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://345a8960-341e-493c-964a-7ef107258ddd"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://6e8b4393-2144-4b8f-8186-eab9f0d10f7f",
+					"@type": "sc:Canvas",
+					"label": "53",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://447167f6-e0f7-48a4-a452-e3a824f3cb05",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5036_2R/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5036_2R",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://6e8b4393-2144-4b8f-8186-eab9f0d10f7f"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://75e27dd9-6aca-4234-86e2-829de89a2f7c",
+					"@type": "sc:Canvas",
+					"label": "54",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://f63bf89b-4f3b-4652-9691-e039e3870766",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5037_1L/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5037_1L",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://75e27dd9-6aca-4234-86e2-829de89a2f7c"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://033147b3-ff3c-44fd-b5cb-91b362ddc3cd",
+					"@type": "sc:Canvas",
+					"label": "55",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://91a5fcda-48ff-4415-84dc-bb22ee6ca9aa",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5037_2R/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5037_2R",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://033147b3-ff3c-44fd-b5cb-91b362ddc3cd"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://4bc2a709-ad0b-4b05-a427-b1f09de9eb6a",
+					"@type": "sc:Canvas",
+					"label": "56",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ff29f690-6fa4-49c3-97e8-12d5cdbdf653",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5038_1L/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5038_1L",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://4bc2a709-ad0b-4b05-a427-b1f09de9eb6a"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://cbff2590-ec90-4662-b78b-c07a856f679c",
+					"@type": "sc:Canvas",
+					"label": "Seccion segunda",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://7e37e441-d63f-47f1-aa43-33b23e68a72a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5038_2R/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5038_2R",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://cbff2590-ec90-4662-b78b-c07a856f679c"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://6c32c25b-2d54-4143-88a4-d16c307dd162",
+					"@type": "sc:Canvas",
+					"label": "52*",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a4a51d0f-dda6-4f65-a711-444c14602a01",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5039_1L/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5039_1L",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://6c32c25b-2d54-4143-88a4-d16c307dd162"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://f6c38e62-19a1-4542-a335-0a8aeefd90fd",
+					"@type": "sc:Canvas",
+					"label": "53*",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://93a441bc-85e7-4621-94e0-4629ad436078",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5039_2R/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5039_2R",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://f6c38e62-19a1-4542-a335-0a8aeefd90fd"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://1f7d5c18-998b-4ed0-addc-5149073afb1a",
+					"@type": "sc:Canvas",
+					"label": "54*",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ce8797ed-78e4-498c-bf28-2ede120861c8",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5040_1L/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5040_1L",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://1f7d5c18-998b-4ed0-addc-5149073afb1a"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://b03ef31c-0f1c-4add-8c27-fbb3d5cf11be",
+					"@type": "sc:Canvas",
+					"label": "55*",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3a310507-3da4-4394-b3a2-e590972a1cde",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5040_2R/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5040_2R",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://b03ef31c-0f1c-4add-8c27-fbb3d5cf11be"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://0edb4fbe-8c67-4d62-ba80-cd5a4654e019",
+					"@type": "sc:Canvas",
+					"label": "58*",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://1e221d75-3399-441d-b3fc-9b018aaa78ef",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5041_1L/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5041_1L",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://0edb4fbe-8c67-4d62-ba80-cd5a4654e019"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://0c820c4c-a350-41f2-82fe-ccf53151cfcf",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://c1b58037-0615-4642-8a90-b114caaf4cee",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5041_2R/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5041_2R",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://0c820c4c-a350-41f2-82fe-ccf53151cfcf"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://5ee8d43f-4818-4e77-9104-434d18243977",
+					"@type": "sc:Canvas",
+					"label": "Malagueña",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a97095a3-09d5-4494-8ff3-ea60ab949404",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5042_1L/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5042_1L",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://5ee8d43f-4818-4e77-9104-434d18243977"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://3882ab4b-81bb-4a25-a6d5-375ec056d801",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://75e72052-7387-447a-8d75-3362d10d1213",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5042_2R/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5042_2R",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://3882ab4b-81bb-4a25-a6d5-375ec056d801"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://199e610d-251a-4ae1-bfe1-584f498d5020",
+					"@type": "sc:Canvas",
+					"label": "132",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://0e413688-25c8-4528-bb20-c24cd0bbf9ff",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5043_1L/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5043_1L",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://199e610d-251a-4ae1-bfe1-584f498d5020"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://33b31c98-22c7-4b2a-9ca7-b03aaa232a0c",
+					"@type": "sc:Canvas",
+					"label": "133",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8eb53f40-0522-42c2-90bd-68b2ea340e88",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5043_2R/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5043_2R",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://33b31c98-22c7-4b2a-9ca7-b03aaa232a0c"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://d7eb91c8-3478-42f9-be70-a728b4a68eec",
+					"@type": "sc:Canvas",
+					"label": "134",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://cca3cbcb-af86-424f-971e-4db15eb7be76",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5044_1L/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5044_1L",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://d7eb91c8-3478-42f9-be70-a728b4a68eec"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://29e6d524-0381-44ac-931c-c83fa0f09526",
+					"@type": "sc:Canvas",
+					"label": "135",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://03bbd420-2dc8-4dca-b523-6d45619a9bc9",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5044_2R/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5044_2R",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://29e6d524-0381-44ac-931c-c83fa0f09526"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://76aeaec5-4769-435c-be6c-74d1d2c174a9",
+					"@type": "sc:Canvas",
+					"label": "136",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://13cdaf53-2e95-4ebd-832b-e72e0eb4eaf4",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5045_1L/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5045_1L",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://76aeaec5-4769-435c-be6c-74d1d2c174a9"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://154e8533-52e3-4f5f-bdde-e7fe91fc699d",
+					"@type": "sc:Canvas",
+					"label": "137",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d1e97b89-df9a-408e-9867-c2acaca4b68e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5045_2R/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5045_2R",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://154e8533-52e3-4f5f-bdde-e7fe91fc699d"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://9cda3c69-049c-4d44-b0da-21d5b351eb73",
+					"@type": "sc:Canvas",
+					"label": "178",
+					"height": 4654,
+					"width": 3158,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://b64a3958-b7ba-4d15-8182-b2e487da872d",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5046_1L/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/DSC5046_1L",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4654,
+								"width": 3158
+							},
+							"on": "http://9cda3c69-049c-4d44-b0da-21d5b351eb73"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [
+		{
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/IIIIF_Workshop_Bodlean_manifest_Structured/range/top",
+        "@type": "sc:Range",
+        "label": "Table of Content",
+        "viewingHint": "top",
+        "ranges": [
+            "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/IIIIF_Workshop_Bodlean_manifest_Structured/range/proemio"
+        ]
+    },
+		{
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/IIIIF_Workshop_Bodlean_manifest_Structured/range/proemio",
+        "@type": "sc:Range",
+        "label": "Proemio",
+        "canvases": [
+            "http://594ffdf7-4c28-4f7c-b93b-02b09aa9787a",
+						"http://8696663e-1fcd-43cd-ac72-c85e28b199b7",
+						"http://648d306d-e11b-4944-9a78-beb26d91c8d0"
+        ]
+			}
+	]
+}
