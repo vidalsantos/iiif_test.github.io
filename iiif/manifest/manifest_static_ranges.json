@@ -1257,7 +1257,7 @@
 				"@id":"https://vidalsantos.github.io/iiif_test.github.io/iiif/range/r1",
 				"@type":"sc:Range",
 				"label":"Proemio I",
-				"ranges" : ["https://127.0.0.1:4000/corridosEd/Manifests/range/r1-1"],
+				"ranges" : ["https://vidalsantos.github.io/iiif_test.github.io/iiif/range/r1-1"],
 				"canvases": [
 					"https://600f5855-0478-41f4-818c-cbd1486adc13",
 					"https://fbb4bc74-aa81-42d3-bc94-5548d5df6916",
