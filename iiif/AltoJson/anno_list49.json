@@ -1,0 +1,811 @@
+
+        {
+            "@context":"http://iiif.io/api/presentation/2/context.json",
+            "@id":"http://localhost:8888/examples/anno_list49.json",
+            "@type":"sc:AnnotationList",
+            "resources":[
+                
+                    
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":""
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=0,0,532,104"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"CANCIONERO MUSICAL POPULAR ESPAÑOL 49"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=961,477,1381,75"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"según Cervantes da a entender en la segunda parte del Qui-"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=556,637,1852,68"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"jote provienen de aquella región, y así lo consigna él con"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=550,724,1856,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"cita ad hoc, y la poesía propia del cantar que acompaña"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=557,808,1850,65"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"al baile persisten, desde aquellos tiempos hasta los de Don"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=554,891,1854,67"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Preciso (Iza Zamácola, el gran vindicador en el siglo XVIII"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=553,975,1854,67"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"de nuestros bailes nacionales) y los presentes."
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=554,1059,1402,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"El insigne Don Francisco Rodriguez Marín detalla con su"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=658,1144,1747,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"reconocido garbo toda esa materia parva y a sus indicaciones"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=550,1229,1858,65"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"me atengo en lo que ahora me permito extractar empezando"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=551,1309,1856,69"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"por la primera forma métrica popular andaluza que es. la"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=550,1397,1856,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Soleá. |"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=547,1475,1427,75"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"La Soleá—dice—consta de tres versos octosílabos, aso-"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=654,1564,1748,64"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"nantado o aconsonantado el primero con el tercero. Ejemplo:"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=552,1650,1844,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Yo metí a la lotería;"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=1213,1759,527,52"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"M'ha tocaiyo tu persona,"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=1208,1830,651,53"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"qu'era lo que yo quería."
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=1210,1902,623,51"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Es como la triada gallega."
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=651,1999,808,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"La solearíya es una soleá cuyo primer verso, mero"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=649,2085,1749,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"arranque para el esfuerzo que al cantar requieren los restan-"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=542,2168,1851,67"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"tes, consta de tres sílabas métricas:"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=541,2253,1069,61"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"El"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=1272,2363,158,42"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Las horitas de la noche"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=1160,2433,605,43"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"me las paso sin dormir."
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=1158,2504,601,52"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Véase estotra:"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=646,2604,421,51"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"¡Ejem!"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=1271,2715,158,52"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Horitas tengo en el dia"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=1156,2784,600,55"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"De no poerme balé."
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=1155,2855,508,53"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"La Alegría, el más breve de los cantares españoles,"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=641,2955,1745,69"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"copla muy parecida, por cierto, a las ciuri (fiori) de Sicilia,"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=535,3040,1850,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"tiene sólo dos versos asonantados O aconsonantados, casi"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=534,3124,1854,65"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"siempre de cinco sílabas el primero y de diez el segundo,"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=534,3208,1849,70"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"y divisible éste en hemistiquios. De ordinario es festiva."
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=532,3292,1851,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Ejemplo:"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=535,3376,259,65"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Tiene unos dientes"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=1148,3473,489,44"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Como granitos de arroz con leche."
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=1094,3543,904,54"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Tiene unos ojos"
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=1149,3684,416,54"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Que las pestañas le hasen manojos."
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=1093,3754,925,56"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":""
+                        },
+                        "on":"https://6f6c72c1-e803-466e-8000-228553a646d0#xywh=3068,0,88,4649"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    }
+            ]
+        }
+    

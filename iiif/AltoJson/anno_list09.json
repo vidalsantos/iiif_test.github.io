@@ -1,0 +1,471 @@
+
+        {
+            "@context":"http://iiif.io/api/presentation/2/context.json",
+            "@id":"http://localhost:8888/examples/anno_list09.json",
+            "@type":"sc:AnnotationList",
+            "resources":[
+                
+                    
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":""
+                        },
+                        "on":"https://600f5855-0478-41f4-818c-cbd1486adc13#xywh=0,0,404,88"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"PROEMIO"
+                        },
+                        "on":"https://600f5855-0478-41f4-818c-cbd1486adc13#xywh=1224,1195,560,88"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Lo que creo en hecho de “Folklore“ musical"
+                        },
+                        "on":"https://600f5855-0478-41f4-818c-cbd1486adc13#xywh=586,1941,1826,81"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Es un hecho, de sobra observado, que al hombre le ha"
+                        },
+                        "on":"https://600f5855-0478-41f4-818c-cbd1486adc13#xywh=679,2309,1747,67"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"sido dada la intuición de toda arte, y desde su inicio, la de"
+                        },
+                        "on":"https://600f5855-0478-41f4-818c-cbd1486adc13#xywh=571,2394,1858,67"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"una música natural, no reglamentada por lo circunstancial y"
+                        },
+                        "on":"https://600f5855-0478-41f4-818c-cbd1486adc13#xywh=571,2479,1856,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"erudito, por medio de la cual expresa, como en un lenguaje,"
+                        },
+                        "on":"https://600f5855-0478-41f4-818c-cbd1486adc13#xywh=570,2563,1853,67"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"los sentimientos que le afectan y conmueven, dolores, penas,"
+                        },
+                        "on":"https://600f5855-0478-41f4-818c-cbd1486adc13#xywh=571,2647,1851,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"sufrimientos, alegrías, con emoción más o menos vehemente,"
+                        },
+                        "on":"https://600f5855-0478-41f4-818c-cbd1486adc13#xywh=569,2731,1853,67"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"y de un modo más vago o preciso, según que utiliza el soni-"
+                        },
+                        "on":"https://600f5855-0478-41f4-818c-cbd1486adc13#xywh=569,2817,1857,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"do puro, canto inarticulado, o canto articulado, con ayuda de"
+                        },
+                        "on":"https://600f5855-0478-41f4-818c-cbd1486adc13#xywh=569,2902,1858,65"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"la palabra exaltada, que por su exaltación misma es ya una"
+                        },
+                        "on":"https://600f5855-0478-41f4-818c-cbd1486adc13#xywh=570,2986,1857,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"cierta música."
+                        },
+                        "on":"https://600f5855-0478-41f4-818c-cbd1486adc13#xywh=567,3072,433,50"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Siglos y más siglos ha escuchado o cultivado, personal-"
+                        },
+                        "on":"https://600f5855-0478-41f4-818c-cbd1486adc13#xywh=676,3153,1749,68"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"mente , la pura emanación de esa música natural, buscando"
+                        },
+                        "on":"https://600f5855-0478-41f4-818c-cbd1486adc13#xywh=570,3240,1856,65"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"en ella el alma de las cosas, y el deseo de sacarla a fuera"
+                        },
+                        "on":"https://600f5855-0478-41f4-818c-cbd1486adc13#xywh=569,3323,1856,67"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"para que todos los hombres la sintiíesen esa música natural,"
+                        },
+                        "on":"https://600f5855-0478-41f4-818c-cbd1486adc13#xywh=569,3409,1854,65"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"O la evocasen y la gozasen como él."
+                        },
+                        "on":"https://600f5855-0478-41f4-818c-cbd1486adc13#xywh=569,3494,1098,65"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Sólo esta música ha permanecido y permanece en pie"
+                        },
+                        "on":"https://600f5855-0478-41f4-818c-cbd1486adc13#xywh=676,3576,1751,69"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"mientras evolucionan y se transtorman, incesantemente, por"
+                        },
+                        "on":"https://600f5855-0478-41f4-818c-cbd1486adc13#xywh=570,3662,1858,67"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"misteriosas regresiones y avances, la técnica, los procedi-"
+                        },
+                        "on":"https://600f5855-0478-41f4-818c-cbd1486adc13#xywh=569,3747,1857,68"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"2"
+                        },
+                        "on":"https://600f5855-0478-41f4-818c-cbd1486adc13#xywh=622,3844,26,41"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":""
+                        },
+                        "on":"https://600f5855-0478-41f4-818c-cbd1486adc13#xywh=3068,0,88,4648"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    }
+            ]
+        }
+    

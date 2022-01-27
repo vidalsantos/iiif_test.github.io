@@ -1,0 +1,251 @@
+
+        {
+            "@context":"http://iiif.io/api/presentation/2/context.json",
+            "@id":"http://localhost:8888/examples/anno_list59.json",
+            "@type":"sc:AnnotationList",
+            "resources":[
+                
+                    
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":""
+                        },
+                        "on":"https://5773ab45-4f39-4ab4-a5a7-b882cdc541e2#xywh=0,0,532,116"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":""
+                        },
+                        "on":"https://5773ab45-4f39-4ab4-a5a7-b882cdc541e2#xywh=112,2934,23,1320"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"OTRA ADICION"
+                        },
+                        "on":"https://5773ab45-4f39-4ab4-a5a7-b882cdc541e2#xywh=1044,1305,683,65"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Las dos Canciones de llaurar y de batre, que se insertan"
+                        },
+                        "on":"https://5773ab45-4f39-4ab4-a5a7-b882cdc541e2#xywh=569,1699,1747,67"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"en los dos últimos números de esta Ejemplificación se han"
+                        },
+                        "on":"https://5773ab45-4f39-4ab4-a5a7-b882cdc541e2#xywh=464,1785,1852,64"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"recogido en dos localidados de la provincia tarraconense por"
+                        },
+                        "on":"https://5773ab45-4f39-4ab4-a5a7-b882cdc541e2#xywh=463,1869,1856,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"el joven sacerdote D. Higinio Anglés folklorista muy des-"
+                        },
+                        "on":"https://5773ab45-4f39-4ab4-a5a7-b882cdc541e2#xywh=464,1952,1855,68"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"pierto y bien informado que en reciente excursión ha hallado"
+                        },
+                        "on":"https://5773ab45-4f39-4ab4-a5a7-b882cdc541e2#xywh=466,2035,1852,67"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"una documentación sorprendente, inesperada para los que"
+                        },
+                        "on":"https://5773ab45-4f39-4ab4-a5a7-b882cdc541e2#xywh=465,2122,1853,68"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"decretan urbí ef orbí que ya no hay folklore porque así se 10"
+                        },
+                        "on":"https://5773ab45-4f39-4ab4-a5a7-b882cdc541e2#xywh=465,2204,1851,69"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"aconseja la inftecunda pereza."
+                        },
+                        "on":"https://5773ab45-4f39-4ab4-a5a7-b882cdc541e2#xywh=465,2287,884,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":""
+                        },
+                        "on":"https://5773ab45-4f39-4ab4-a5a7-b882cdc541e2#xywh=3054,0,104,4648"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    }
+            ]
+        }
+    

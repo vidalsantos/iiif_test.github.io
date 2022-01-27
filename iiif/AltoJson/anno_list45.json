@@ -1,0 +1,571 @@
+
+        {
+            "@context":"http://iiif.io/api/presentation/2/context.json",
+            "@id":"http://localhost:8888/examples/anno_list45.json",
+            "@type":"sc:AnnotationList",
+            "resources":[
+                
+                    
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":""
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=0,0,532,100"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"SECCIÓN PRIMERA"
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=1076,1161,827,81"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Canciones de cuna (de bressol, arrolos, berce,"
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=564,1333,1844,77"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"nanas, etc., según las regiones.)"
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=898,1473,1175,77"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Esclarecimientos sobre la copla en general,"
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=773,1699,1475,79"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"y sobre estas canciones en particular"
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=862,1821,1242,69"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Impónese antes de presentar unos y otros cantos, hablar"
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=664,2034,1743,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"de la copla en general y de las distintas clases de coplas. Y"
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=561,2119,1846,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"sobre tan importante materia seguirá lo que ha escrito «en di-"
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=558,2203,1850,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"versas partes una gran autoridad en la materia: Don Francis-"
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=558,2287,1846,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"co Rodriguez Marín."
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=558,2371,610,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"El pueblo narra su vida entera en series y más series de"
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=663,2455,1747,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"coplas que nada ni nadie podrán agotar. Es un ingénuo auto-"
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=557,2540,1847,65"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"biógrafo de sí mismo, y como no «tira a engañar», pues"
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=556,2623,1693,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"No canta porque le escuchen"
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=1082,2734,785,52"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"sino unas veces «porque está alegre», otras «porque está"
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=556,2834,1847,67"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"triste» y otras «para espantar sus males...» En. suma, para"
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=555,2918,1854,67"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"sentir su alma en gracia y cantar... porque si, no ha necesi-"
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=556,3002,1851,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"tado más que la copla, que del corazón sube a los labios, y"
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=555,3086,1854,68"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"en la mano una guitarra, modesta y solitaria compañera de lo"
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=555,3169,1853,68"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"que ama, cree, espera, sufre, aborrece, perdona..."
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=557,3253,1523,68"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"¿Inventó él, el pueblo, la copla: la halló, acaso, en un"
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=662,3339,1745,65"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"desprendimiento del romance? ¡Vaya usted a saber! Fué pro-"
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=556,3422,1851,69"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"clamada por nuestros escritores de los siglos xvi y xvu. Con-"
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=556,3507,1851,67"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"jeturaba el gran folklorista sevillano Machado, que la copla"
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=555,3591,1853,70"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"era muy posterior al romance en la historia de nuestra litera-"
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=554,3675,1853,68"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"tura. Los escritores del siglo xvi, entre otros, Juan Rufo, lla-"
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=554,3760,1853,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":""
+                        },
+                        "on":"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8#xywh=3068,0,88,4648"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    }
+            ]
+        }
+    

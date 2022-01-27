@@ -1,0 +1,871 @@
+
+        {
+            "@context":"http://iiif.io/api/presentation/2/context.json",
+            "@id":"http://localhost:8888/examples/anno_list54a.json",
+            "@type":"sc:AnnotationList",
+            "resources":[
+                
+                    
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":""
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=0,0,180,4648"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"54 FELIPE “PEDREEL"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=704,522,1020,41"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"de verse; y he de añadir que esta clase de coplas bailables"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=636,658,1831,69"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"lo mismo que las presentes Malagueñas, las Sevillanas,"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=636,741,1829,70"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Rondeñas y otras piezas por el estilo descienden del tipo"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=635,827,1833,67"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"genérico Fandango, no diterenciándose entre sí más que en"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=634,910,1829,67"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"el tono, algunas variantes en los acordes, en las formas"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=600,992,1863,68"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"acompañantes rasgueadas, punteadas o ambas cosas a la"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=636,1078,1830,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"vez, o en otros detalles de poca monta casi siempre debidos"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=637,1161,1829,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"a la tradición local."
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=637,1246,560,51"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"310) Algo más he de decir del fragmento de Malagueña"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=739,1328,1724,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"que aquí presento con su genuino acompañamiento de gui-"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=639,1413,1828,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"tarra, composición del guitarrista popular Francisco Rodri-"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=641,1496,1824,65"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"guez Murciano que publicó el maestro Incenga en una titu-"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=641,1580,1828,65"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"lada Colección de aires populares para guitarra (Madrid,"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=637,1662,1829,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"J. Castro y Campo, editor) precedida de una Advertencia y"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=631,1745,1834,68"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"una Biografía del mentado guitarrista, firmada por el maes-"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=637,1830,1830,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"tro D. Matiano Vazquez, que extracto a continuación, por-"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=637,1915,1832,65"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"que en realidad de verdad el guitarrista de que se trata,"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=638,1999,1828,65"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"señala una influencia positiva en la carrera del célebre com-"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=638,2082,1828,65"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"positor ruso Miguel Glinka, y en el desarrollo futuro de la"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=638,2165,1835,67"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"nacionalización del arte ruso, que tantas afinidades presenta"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=639,2249,1833,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"con una buena parte de las modalidades de origen de nues-"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=638,2332,1832,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"tra melodía popular, hecho que no ha pasado desapercibido"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=638,2416,1836,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"a algún crítico moderno, y en primer lugar me complazco en"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=639,2500,1832,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"citar al señor Mauricio Touchard, de quien he comentado un"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=641,2584,1832,65"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"escrito suyo en el breve Proemio que figura al comienzo de"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=640,2667,1831,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"este tomo. (1)"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=640,2749,418,65"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"F. Rodriguez (el Murciano) nació en Granada en el barrio"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=743,2832,1730,67"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"del Albaicín el año de 1795. Ala edad de cinco años ya"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=642,2917,1836,68"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"llamaba la atención de cuantos le oían tocar un guitarrillo de"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=642,3003,1836,65"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"los llamados típles. Desde entonces mucho más que a la lec-"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=642,3086,1835,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"tura y a la escritura que se le enseñaba en la escuela de pri-"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=640,3170,1836,67"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"meras letras se dedicaba por completo a su instrumento pre-"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=642,3253,1835,68"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"dilecto. Tanto es así que abandonó la escuela para entregar-"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=642,3338,1835,66"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"se del todo a su única afición, la guitarra. No quiso tam-"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=643,3420,1837,68"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"poco estudiar la música, conservando así toda su vida cierta"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=642,3506,1836,64"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"fantasía, si no salvaje independiente tan llena de fuego como"
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=640,3587,1836,69"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":""
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=642,3701,166,4"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"(1) Véase ArénpICE 1, Glinka en Granada."
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=725,3768,1121,53"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":""
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=2668,0,488,86"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":""
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=3068,3794,22,12"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":""
+                        },
+                        "on":"https://93910b4f-8358-48ab-b55e-41e7f8806fdb#xywh=3030,3809,13,710"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    }
+            ]
+        }
+    
