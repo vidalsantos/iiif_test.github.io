@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://ficus.maadix.org/CancioneroDigital/texts/Canco_de_batre/\" target=\"_blank\" rel=\"noopener\">Listen online",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://ficus.maadix.org/CancioneroDigital/texts/Malaguena/\" target=\"_blank\" rel=\"noopener\">Listen online</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/28676632",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-01-27T14:36:09",
+    "@id" : "c",
+    "dcterms:modified" : "2022-01-27T14:36:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://vidalsantos.github.io/iiif_test.github.io/iiif/manifest/manifest_static_ranges.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1091,478,784,285"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1090.56497,477.86158h392.12006v0h392.12006v142.3291v142.3291h-392.12006h-392.12006v-142.3291z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_20d4929a-b663-469b-8df7-75460e589da5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7bf6e350-6ebe-487c-a499-682744d80312"
+    } ]
+  } ],
+  "@id" : "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/CancoDeBatre.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
