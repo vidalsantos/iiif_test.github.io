@@ -103,6 +103,13 @@
 							"on": "https://83f46288-b699-4193-9ad1-bb87e8768d39"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list07.json",
+        "@type": "sc:AnnotationList",
+        "label": "Transcript"
+    }
+],
 					"related": ""
 				},
 				{
@@ -161,6 +168,13 @@
 							"on": "https://600f5855-0478-41f4-818c-cbd1486adc13"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list09.json",
+        "@type": "sc:AnnotationList",
+        "label": "Transcript"
+    }
+],
 					"related": ""
 				},
 				{
@@ -190,6 +204,13 @@
 							"on": "https://fbb4bc74-aa81-42d3-bc94-5548d5df6916"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list10.json",
+        "@type": "sc:AnnotationList",
+        "label": "Transcript"
+    }
+],
 					"related": ""
 				},
 				{
@@ -219,6 +240,13 @@
 							"on": "https://1a944069-bc21-4019-bb83-7a502e4b1ff8"
 						}
 					],
+					"otherContent": [
+					{
+			        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list11.json",
+			        "@type": "sc:AnnotationList",
+			        "label": "Transcript"
+			    }
+			],
 					"related": ""
 				},
 				{
@@ -248,6 +276,13 @@
 							"on": "https://f5c6fb3e-59e8-4a62-a6a0-40d88fd3d50e"
 						}
 					],
+					"otherContent": [
+					{
+			        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list12.json",
+			        "@type": "sc:AnnotationList",
+			        "label": "Transcript"
+			    }
+			],
 					"related": ""
 				},
 				{
@@ -277,6 +312,13 @@
 							"on": "https://71dbe68d-c430-4cd0-a8ff-ca9679c68585"
 						}
 					],
+					"otherContent": [
+					{
+			        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list13.json",
+			        "@type": "sc:AnnotationList",
+			        "label": "Transcript"
+			    }
+			],
 					"related": ""
 				},
 				{
@@ -306,6 +348,13 @@
 							"on": "https://44c703c6-1c4c-4069-9bae-80fe423929bb"
 						}
 					],
+					"otherContent": [
+					{
+			        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list14.json",
+			        "@type": "sc:AnnotationList",
+			        "label": "Transcript"
+			    }
+			],
 					"related": ""
 				},
 				{
@@ -335,6 +384,13 @@
 							"on": "https://06dfbe0e-26ed-4127-986e-c337073f13b6"
 						}
 					],
+					"otherContent": [
+					{
+			        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list15.json",
+			        "@type": "sc:AnnotationList",
+			        "label": "Transcript"
+			    }
+			],
 					"related": ""
 				},
 				{
@@ -393,6 +449,13 @@
 							"on": "https://dec9aeb7-8941-4290-9d1a-2477692ad277"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list43.json",
+        "@type": "sc:AnnotationList",
+        "label": "Transcript"
+    }
+],
 					"related": ""
 				},
 				{
@@ -451,6 +514,13 @@
 							"on": "https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list45.json",
+        "@type": "sc:AnnotationList",
+        "label": "Transcript"
+    }
+],
 					"related": ""
 				},
 				{
@@ -480,6 +550,13 @@
 							"on": "https://18b1459d-7752-4a9e-8ac7-d1ac7861054b"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list46.json",
+        "@type": "sc:AnnotationList",
+        "label": "Transcript"
+    }
+],
 					"related": ""
 				},
 				{
@@ -509,6 +586,13 @@
 							"on": "https://5af43430-0e76-46cf-8ee6-599f7071f1d9"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list47.json",
+        "@type": "sc:AnnotationList",
+        "label": "Transcript"
+    }
+],
 					"related": ""
 				},
 				{
@@ -538,6 +622,13 @@
 							"on": "https://4a1a4f3d-e1c4-4f1d-9e38-1b6cf4f77dd8"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list48.json",
+        "@type": "sc:AnnotationList",
+        "label": "Transcript"
+    }
+],
 					"related": ""
 				},
 				{
@@ -567,6 +658,13 @@
 							"on": "https://6f6c72c1-e803-466e-8000-228553a646d0"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list49.json",
+        "@type": "sc:AnnotationList",
+        "label": "Transcript"
+    }
+],
 					"related": ""
 				},
 				{
@@ -596,6 +694,13 @@
 							"on": "https://cb3e6579-c45a-4637-87bc-ebd31e01d823"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list50.json",
+        "@type": "sc:AnnotationList",
+        "label": "Transcript"
+    }
+],
 					"related": ""
 				},
 				{
@@ -625,6 +730,13 @@
 							"on": "https://2e7a2e35-35f8-47f6-8686-6929538ee179"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list51.json",
+        "@type": "sc:AnnotationList",
+        "label": "Transcript"
+    }
+],
 					"related": ""
 				},
 				{
@@ -654,6 +766,13 @@
 							"on": "https://81073ce5-a016-4997-9c2b-1e20c2fee4d8"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list52.json",
+        "@type": "sc:AnnotationList",
+        "label": "Transcript"
+    }
+],
 					"related": ""
 				},
 				{
@@ -683,6 +802,13 @@
 							"on": "https://57e1c59a-540c-4791-9c82-8f058b22469d"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list53.json",
+        "@type": "sc:AnnotationList",
+        "label": "Transcript"
+    }
+],
 					"related": ""
 				},
 				{
@@ -712,6 +838,13 @@
 							"on": "https://2d28be38-0c1e-4256-8775-c7c14dcf8be4"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list54.json",
+        "@type": "sc:AnnotationList",
+        "label": "Transcript"
+    }
+],
 					"related": ""
 				},
 				{
@@ -741,6 +874,13 @@
 							"on": "https://0049197a-0a37-479e-bfb3-ec695bf97871"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list55.json",
+        "@type": "sc:AnnotationList",
+        "label": "Transcript"
+    }
+],
 					"related": ""
 				},
 				{
@@ -770,12 +910,19 @@
 							"on": "https://20eb27ed-6531-4da9-98f4-d30bc81fd723"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list56.json",
+        "@type": "sc:AnnotationList",
+        "label": "Transcript"
+    }
+],
 					"related": ""
 				},
 				{
 					"@id": "https://a3cb7352-21fa-4f89-ba25-06aa160af227",
 					"@type": "sc:Canvas",
-					"label": "51",
+					"label": "51a",
 					"height": 4654,
 					"width": 3158,
 					"images": [
@@ -799,12 +946,19 @@
 							"on": "https://a3cb7352-21fa-4f89-ba25-06aa160af227"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list51a.json",
+        "@type": "sc:AnnotationList",
+        "label": "Transcript"
+    }
+],
 					"related": ""
 				},
 				{
 					"@id": "https://52c80d80-a8ad-412d-b14b-53c209e36642",
 					"@type": "sc:Canvas",
-					"label": "52",
+					"label": "52a",
 					"height": 4654,
 					"width": 3158,
 					"images": [
@@ -828,12 +982,20 @@
 							"on": "https://52c80d80-a8ad-412d-b14b-53c209e36642"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list52a.json",
+        "@type": "sc:AnnotationList",
+        "label": "Transcript"
+    }
+],
+
 					"related": ""
 				},
 				{
 					"@id": "https://f23ed5f6-f71b-411b-8b60-375a70d7ded9",
 					"@type": "sc:Canvas",
-					"label": "53",
+					"label": "53a",
 					"height": 4654,
 					"width": 3158,
 					"images": [
@@ -857,12 +1019,19 @@
 							"on": "https://f23ed5f6-f71b-411b-8b60-375a70d7ded9"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list53a.json",
+        "@type": "sc:AnnotationList",
+        "label": "Transcript"
+    }
+],
 					"related": ""
 				},
 				{
 					"@id": "https://93910b4f-8358-48ab-b55e-41e7f8806fdb",
 					"@type": "sc:Canvas",
-					"label": "54",
+					"label": "54a",
 					"height": 4654,
 					"width": 3158,
 					"images": [
@@ -886,12 +1055,19 @@
 							"on": "https://93910b4f-8358-48ab-b55e-41e7f8806fdb"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list54a.json",
+        "@type": "sc:AnnotationList",
+        "label": "Transcript"
+    }
+],
 					"related": ""
 				},
 				{
 					"@id": "https://9c0a0cac-fe72-4549-ae76-56c1f5e27a75",
 					"@type": "sc:Canvas",
-					"label": "55",
+					"label": "55a",
 					"height": 4654,
 					"width": 3158,
 					"images": [
@@ -915,6 +1091,13 @@
 							"on": "https://9c0a0cac-fe72-4549-ae76-56c1f5e27a75"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list55a.json",
+        "@type": "sc:AnnotationList",
+        "label": "Transcript"
+    }
+],
 					"related": ""
 				},
 				{
@@ -944,6 +1127,13 @@
 							"on": "https://2b2a81e0-0e04-41bf-b54f-3b48cadf1780"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list58.json",
+        "@type": "sc:AnnotationList",
+        "label": "Transcript"
+    }
+],
 					"related": ""
 				},
 				{
@@ -973,6 +1163,13 @@
 							"on": "https://5773ab45-4f39-4ab4-a5a7-b882cdc541e2"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list59.json",
+        "@type": "sc:AnnotationList",
+        "label": "Transcript"
+    }
+],
 					"related": ""
 				},
 				{
@@ -1002,6 +1199,13 @@
 							"on": "https://3e16d825-3891-4540-b843-900334deabd2"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://dev.gdmrdigital.com/annotations/1245635613/28676632/3dc170081b022e0f7b8fe007be7fd9fa.json",
+        "@type": "sc:AnnotationList",
+        "label": "HyperLink"
+    }
+],
 					"related": ""
 				},
 				{
@@ -1234,6 +1438,12 @@
 							"on": "https://7bf6e350-6ebe-487c-a499-682744d80312"
 						}
 					],
+					{
+			        "@id": "https://dev.gdmrdigital.com/annotations/1245635613/28676632/ff20fbc5020092526b65d174fbdd2322.json",
+			        "@type": "sc:AnnotationList",
+			        "label": "HyperLink"
+			    }
+			],
 					"related": ""
 				}
 			]
@@ -1288,7 +1498,6 @@
         "@id":"https://vidalsantos.github.io/iiif_test.github.io/iiif/range/r3-1",
         "@type":"sc:Range",
         "label":"Sección primera : Canciones de cuna",
-        "ranges" : ["https://vidalsantos.github.io/iiif_test.github.io/iiif/range/r3-1-1"],
         "canvases": [
 					"https://a2507f10-a7b4-4cf0-86dc-09c53d4017c8",
 					"https://18b1459d-7752-4a9e-8ac7-d1ac7861054b",
@@ -1308,7 +1517,6 @@
         "@id":"https://vidalsantos.github.io/iiif_test.github.io/iiif/range/r3-2",
         "@type":"sc:Range",
         "label":"Sección segunda : La-Las",
-        "ranges" : ["https://vidalsantos.github.io/iiif_test.github.io/iiif/range/r3-2-1"],
         "canvases": [
 					"https://a3cb7352-21fa-4f89-ba25-06aa160af227",
 					"https://52c80d80-a8ad-412d-b14b-53c209e36642",
@@ -1323,7 +1531,6 @@
         "@id":"https://vidalsantos.github.io/iiif_test.github.io/iiif/range/r4",
         "@type":"sc:Range",
         "label":"(305) Malagueña",
-        "ranges" : ["https://vidalsantos.github.io/iiif_test.github.io/iiif/range/r4-1"],
         "canvases": [
 					"https://3e16d825-3891-4540-b843-900334deabd2",
 					"https://3c10b7a6-781c-4004-86cb-520b379cad0a",
