@@ -1438,6 +1438,13 @@
 							"on": "https://7bf6e350-6ebe-487c-a499-682744d80312"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://dev.gdmrdigital.com/annotations/1245635613/28676632/ff20fbc5020092526b65d174fbdd2322.json",
+        "@type": "sc:AnnotationList",
+        "label": "HyperLink"
+    }
+],
 					"related": ""
 				}
 			]
