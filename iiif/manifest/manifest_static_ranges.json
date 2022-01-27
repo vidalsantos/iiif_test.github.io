@@ -105,7 +105,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list07.json",
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list07.json",
         "@type": "sc:AnnotationList",
         "label": "Transcript"
     }
@@ -170,7 +170,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list09.json",
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list09.json",
         "@type": "sc:AnnotationList",
         "label": "Transcript"
     }
@@ -206,7 +206,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list10.json",
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list10.json",
         "@type": "sc:AnnotationList",
         "label": "Transcript"
     }
@@ -242,7 +242,7 @@
 					],
 					"otherContent": [
 					{
-			        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list11.json",
+			        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list11.json",
 			        "@type": "sc:AnnotationList",
 			        "label": "Transcript"
 			    }
@@ -278,7 +278,7 @@
 					],
 					"otherContent": [
 					{
-			        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list12.json",
+			        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list12.json",
 			        "@type": "sc:AnnotationList",
 			        "label": "Transcript"
 			    }
@@ -314,7 +314,7 @@
 					],
 					"otherContent": [
 					{
-			        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list13.json",
+			        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list13.json",
 			        "@type": "sc:AnnotationList",
 			        "label": "Transcript"
 			    }
@@ -350,7 +350,7 @@
 					],
 					"otherContent": [
 					{
-			        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list14.json",
+			        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list14.json",
 			        "@type": "sc:AnnotationList",
 			        "label": "Transcript"
 			    }
@@ -386,7 +386,7 @@
 					],
 					"otherContent": [
 					{
-			        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list15.json",
+			        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list15.json",
 			        "@type": "sc:AnnotationList",
 			        "label": "Transcript"
 			    }
@@ -451,7 +451,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list43.json",
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list43.json",
         "@type": "sc:AnnotationList",
         "label": "Transcript"
     }
@@ -516,7 +516,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list45.json",
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list45.json",
         "@type": "sc:AnnotationList",
         "label": "Transcript"
     }
@@ -552,7 +552,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list46.json",
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list46.json",
         "@type": "sc:AnnotationList",
         "label": "Transcript"
     }
@@ -588,7 +588,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list47.json",
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list47.json",
         "@type": "sc:AnnotationList",
         "label": "Transcript"
     }
@@ -624,7 +624,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list48.json",
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list48.json",
         "@type": "sc:AnnotationList",
         "label": "Transcript"
     }
@@ -660,7 +660,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list49.json",
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list49.json",
         "@type": "sc:AnnotationList",
         "label": "Transcript"
     }
@@ -696,7 +696,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list50.json",
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list50.json",
         "@type": "sc:AnnotationList",
         "label": "Transcript"
     }
@@ -732,7 +732,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list51.json",
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list51.json",
         "@type": "sc:AnnotationList",
         "label": "Transcript"
     }
@@ -768,7 +768,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list52.json",
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list52.json",
         "@type": "sc:AnnotationList",
         "label": "Transcript"
     }
@@ -804,7 +804,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list53.json",
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list53.json",
         "@type": "sc:AnnotationList",
         "label": "Transcript"
     }
@@ -840,7 +840,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list54.json",
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list54.json",
         "@type": "sc:AnnotationList",
         "label": "Transcript"
     }
@@ -876,7 +876,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list55.json",
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list55.json",
         "@type": "sc:AnnotationList",
         "label": "Transcript"
     }
@@ -912,7 +912,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list56.json",
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list56.json",
         "@type": "sc:AnnotationList",
         "label": "Transcript"
     }
@@ -948,7 +948,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list51a.json",
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list51a.json",
         "@type": "sc:AnnotationList",
         "label": "Transcript"
     }
@@ -984,7 +984,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list52a.json",
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list52a.json",
         "@type": "sc:AnnotationList",
         "label": "Transcript"
     }
@@ -1021,7 +1021,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list53a.json",
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list53a.json",
         "@type": "sc:AnnotationList",
         "label": "Transcript"
     }
@@ -1057,7 +1057,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list54a.json",
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list54a.json",
         "@type": "sc:AnnotationList",
         "label": "Transcript"
     }
@@ -1093,7 +1093,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list55a.json",
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list55a.json",
         "@type": "sc:AnnotationList",
         "label": "Transcript"
     }
@@ -1129,7 +1129,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list58.json",
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list58.json",
         "@type": "sc:AnnotationList",
         "label": "Transcript"
     }
@@ -1165,7 +1165,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJsonanno_list59.json",
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/anno_list59.json",
         "@type": "sc:AnnotationList",
         "label": "Transcript"
     }
@@ -1539,7 +1539,6 @@
         "@id":"https://vidalsantos.github.io/iiif_test.github.io/iiif/range/r5",
         "@type":"sc:Range",
         "label":"(306) Malagueña",
-        "ranges" : ["https://vidalsantos.github.io/iiif_test.github.io/iiif/range/r5-1"],
         "canvases": [
           "https://2c1452cd-c103-44d4-ba3d-5a867511dd66"
         ]
@@ -1548,7 +1547,6 @@
         "@id":"https://vidalsantos.github.io/iiif_test.github.io/iiif/range/r6",
         "@type":"sc:Range",
         "label":"(326) Canço de batre",
-        "ranges" : ["https://vidalsantos.github.io/iiif_test.github.io/iiif/range/r6-1"],
         "canvases": [
           "https://7bf6e350-6ebe-487c-a499-682744d80312"
         ]
