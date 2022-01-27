@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName></fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 4.1.1</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="3158" HEIGHT="4654" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="3158" HEIGHT="4654">
+				<ComposedBlock ID="cblock_0" HPOS="0" VPOS="0" WIDTH="532" HEIGHT="90">
+					<TextBlock ID="block_0" HPOS="0" VPOS="0" WIDTH="532" HEIGHT="90">
+						<TextLine ID="line_0" HPOS="0" VPOS="0" WIDTH="532" HEIGHT="90">
+							<String ID="string_0" HPOS="0" VPOS="0" WIDTH="532" HEIGHT="90" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="98" VPOS="3820" WIDTH="25" HEIGHT="705">
+					<TextBlock ID="block_1" HPOS="98" VPOS="3820" WIDTH="25" HEIGHT="705">
+						<TextLine ID="line_1" HPOS="98" VPOS="3820" WIDTH="25" HEIGHT="705">
+							<String ID="string_1" HPOS="98" VPOS="3820" WIDTH="25" HEIGHT="705" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="984" VPOS="546" WIDTH="1379" HEIGHT="49">
+					<TextBlock ID="block_2" HPOS="984" VPOS="546" WIDTH="1379" HEIGHT="49">
+						<TextLine ID="line_2" HPOS="984" VPOS="546" WIDTH="1379" HEIGHT="49">
+							<String ID="string_2" HPOS="984" VPOS="557" WIDTH="306" HEIGHT="38" WC="0.94" CONTENT="CANCIONERO"/><SP WIDTH="42" VPOS="557" HPOS="1290"/>
+							<String ID="string_3" HPOS="1332" VPOS="557" WIDTH="204" HEIGHT="36" WC="0.94" CONTENT="MUSICAL"/><SP WIDTH="40" VPOS="557" HPOS="1536"/>
+							<String ID="string_4" HPOS="1576" VPOS="556" WIDTH="212" HEIGHT="36" WC="0.95" CONTENT="POPULAR"/><SP WIDTH="38" VPOS="556" HPOS="1788"/>
+							<String ID="string_5" HPOS="1826" VPOS="546" WIDTH="214" HEIGHT="45" WC="0.95" CONTENT="ESPAÑOL"/><SP WIDTH="268" VPOS="546" HPOS="2040"/>
+							<String ID="string_6" HPOS="2308" VPOS="551" WIDTH="55" HEIGHT="42" WC="0.95" CONTENT="55"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="571" VPOS="693" WIDTH="1901" HEIGHT="2933">
+					<TextBlock ID="block_3" HPOS="571" VPOS="693" WIDTH="1901" HEIGHT="2933">
+						<TextLine ID="line_3" HPOS="579" VPOS="693" WIDTH="1848" HEIGHT="70">
+							<String ID="string_7" HPOS="579" VPOS="699" WIDTH="65" HEIGHT="52" WC="0.96" CONTENT="de"/><SP WIDTH="28" VPOS="699" HPOS="644"/>
+							<String ID="string_8" HPOS="672" VPOS="713" WIDTH="137" HEIGHT="37" WC="0.96" CONTENT="vena"/><SP WIDTH="29" VPOS="713" HPOS="809"/>
+							<String ID="string_9" HPOS="838" VPOS="697" WIDTH="303" HEIGHT="66" WC="0.96" CONTENT="inagotable"/><SP WIDTH="28" VPOS="697" HPOS="1141"/>
+							<String ID="string_10" HPOS="1169" VPOS="697" WIDTH="228" HEIGHT="65" WC="0.96" CONTENT="siempre"/><SP WIDTH="28" VPOS="697" HPOS="1397"/>
+							<String ID="string_11" HPOS="1425" VPOS="696" WIDTH="124" HEIGHT="51" WC="0.96" CONTENT="viva"/><SP WIDTH="29" VPOS="696" HPOS="1549"/>
+							<String ID="string_12" HPOS="1578" VPOS="711" WIDTH="34" HEIGHT="49" WC="0.96" CONTENT="y"/><SP WIDTH="27" VPOS="711" HPOS="1612"/>
+							<String ID="string_13" HPOS="1639" VPOS="693" WIDTH="192" HEIGHT="53" WC="0.96" CONTENT="fresca."/><SP WIDTH="47" VPOS="693" HPOS="1831"/>
+							<String ID="string_14" HPOS="1878" VPOS="693" WIDTH="58" HEIGHT="52" WC="0.96" CONTENT="El"/><SP WIDTH="31" VPOS="693" HPOS="1936"/>
+							<String ID="string_15" HPOS="1967" VPOS="693" WIDTH="212" HEIGHT="53" WC="0.93" CONTENT="célebre"/><SP WIDTH="29" VPOS="693" HPOS="2179"/>
+							<String ID="string_16" HPOS="2208" VPOS="707" WIDTH="219" HEIGHT="52" WC="0.93" CONTENT="compo-"/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="579" VPOS="777" WIDTH="1893" HEIGHT="69">
+							<String ID="string_17" HPOS="579" VPOS="784" WIDTH="125" HEIGHT="50" WC="0.92" CONTENT="sitor"/><SP WIDTH="40" VPOS="784" HPOS="704"/>
+							<String ID="string_18" HPOS="744" VPOS="797" WIDTH="122" HEIGHT="36" WC="0.92" CONTENT="ruso"/><SP WIDTH="44" VPOS="797" HPOS="866"/>
+							<String ID="string_19" HPOS="910" VPOS="781" WIDTH="192" HEIGHT="52" WC="0.92" CONTENT="Glinka"/><SP WIDTH="42" VPOS="781" HPOS="1102"/>
+							<String ID="string_20" HPOS="1144" VPOS="782" WIDTH="133" HEIGHT="64" WC="0.96" CONTENT="pasó"/><SP WIDTH="42" VPOS="782" HPOS="1277"/>
+							<String ID="string_21" HPOS="1319" VPOS="796" WIDTH="100" HEIGHT="35" WC="0.96" CONTENT="una"/><SP WIDTH="31" VPOS="796" HPOS="1419"/>
+							<String ID="string_22" HPOS="1450" VPOS="781" WIDTH="143" HEIGHT="64" WC="0.96" CONTENT="larga"/><SP WIDTH="41" VPOS="781" HPOS="1593"/>
+							<String ID="string_23" HPOS="1634" VPOS="780" WIDTH="311" HEIGHT="64" WC="0.96" CONTENT="temporada"/><SP WIDTH="42" VPOS="780" HPOS="1945"/>
+							<String ID="string_24" HPOS="1987" VPOS="794" WIDTH="64" HEIGHT="35" WC="0.96" CONTENT="en"/><SP WIDTH="42" VPOS="794" HPOS="2051"/>
+							<String ID="string_25" HPOS="2093" VPOS="777" WIDTH="271" HEIGHT="63" WC="0.96" CONTENT="Granada,"/><SP WIDTH="35" VPOS="777" HPOS="2364"/>
+							<String ID="string_26" HPOS="2399" VPOS="795" WIDTH="18" HEIGHT="49" WC="0.89" CONTENT="y"/><SP WIDTH="6" VPOS="795" HPOS="2417"/>
+							<String ID="string_27" HPOS="2423" VPOS="795" WIDTH="49" HEIGHT="49" WC="0.87" CONTENT=".."/>
+						</TextLine>
+						<TextLine ID="line_5" HPOS="579" VPOS="863" WIDTH="1850" HEIGHT="65">
+							<String ID="string_28" HPOS="579" VPOS="883" WIDTH="103" HEIGHT="35" WC="0.96" CONTENT="uno"/><SP WIDTH="46" VPOS="883" HPOS="682"/>
+							<String ID="string_29" HPOS="728" VPOS="868" WIDTH="66" HEIGHT="50" WC="0.96" CONTENT="de"/><SP WIDTH="45" VPOS="868" HPOS="794"/>
+							<String ID="string_30" HPOS="839" VPOS="881" WIDTH="91" HEIGHT="36" WC="0.96" CONTENT="sus"/><SP WIDTH="47" VPOS="881" HPOS="930"/>
+							<String ID="string_31" HPOS="977" VPOS="869" WIDTH="256" HEIGHT="47" WC="0.95" CONTENT="encantos"/><SP WIDTH="49" VPOS="869" HPOS="1233"/>
+							<String ID="string_32" HPOS="1282" VPOS="866" WIDTH="66" HEIGHT="50" WC="0.95" CONTENT="de"/><SP WIDTH="46" VPOS="866" HPOS="1348"/>
+							<String ID="string_33" HPOS="1394" VPOS="866" WIDTH="202" HEIGHT="62" WC="0.93" CONTENT="viajero"/><SP WIDTH="40" VPOS="866" HPOS="1596"/>
+							<String ID="string_34" HPOS="1636" VPOS="879" WIDTH="90" HEIGHT="35" WC="0.96" CONTENT="era"/><SP WIDTH="40" VPOS="879" HPOS="1726"/>
+							<String ID="string_35" HPOS="1766" VPOS="868" WIDTH="209" HEIGHT="45" WC="0.96" CONTENT="estarse"/><SP WIDTH="40" VPOS="868" HPOS="1975"/>
+							<String ID="string_36" HPOS="2015" VPOS="863" WIDTH="159" HEIGHT="50" WC="0.96" CONTENT="horas"/><SP WIDTH="40" VPOS="863" HPOS="2174"/>
+							<String ID="string_37" HPOS="2214" VPOS="867" WIDTH="215" HEIGHT="46" WC="0.96" CONTENT="enteras"/>
+						</TextLine>
+						<TextLine ID="line_6" HPOS="579" VPOS="948" WIDTH="1850" HEIGHT="68">
+							<String ID="string_38" HPOS="579" VPOS="952" WIDTH="211" HEIGHT="64" WC="0.96" CONTENT="oyendo"/><SP WIDTH="28" VPOS="952" HPOS="790"/>
+							<String ID="string_39" HPOS="818" VPOS="967" WIDTH="29" HEIGHT="34" WC="0.96" CONTENT="a"/><SP WIDTH="29" VPOS="967" HPOS="847"/>
+							<String ID="string_40" HPOS="876" VPOS="953" WIDTH="215" HEIGHT="47" WC="0.95" CONTENT="nuestro"/><SP WIDTH="30" VPOS="953" HPOS="1091"/>
+							<String ID="string_41" HPOS="1121" VPOS="950" WIDTH="300" HEIGHT="64" WC="0.70" CONTENT="Rodriguez"/><SP WIDTH="29" VPOS="950" HPOS="1421"/>
+							<String ID="string_42" HPOS="1450" VPOS="948" WIDTH="275" HEIGHT="51" WC="0.96" CONTENT="Murciano"/><SP WIDTH="31" VPOS="948" HPOS="1725"/>
+							<String ID="string_43" HPOS="1756" VPOS="949" WIDTH="315" HEIGHT="63" WC="0.96" CONTENT="improvisar"/><SP WIDTH="29" VPOS="949" HPOS="2071"/>
+							<String ID="string_44" HPOS="2100" VPOS="949" WIDTH="271" HEIGHT="50" WC="0.96" CONTENT="variantes"/><SP WIDTH="29" VPOS="949" HPOS="2371"/>
+							<String ID="string_45" HPOS="2400" VPOS="962" WIDTH="29" HEIGHT="35" WC="0.96" CONTENT="a"/>
+						</TextLine>
+						<TextLine ID="line_7" HPOS="578" VPOS="1030" WIDTH="1849" HEIGHT="69">
+							<String ID="string_46" HPOS="578" VPOS="1036" WIDTH="78" HEIGHT="49" WC="0.96" CONTENT="los"/><SP WIDTH="28" VPOS="1036" HPOS="656"/>
+							<String ID="string_47" HPOS="684" VPOS="1034" WIDTH="523" HEIGHT="65" WC="0.96" CONTENT="acompañamientos"/><SP WIDTH="30" VPOS="1034" HPOS="1207"/>
+							<String ID="string_48" HPOS="1237" VPOS="1034" WIDTH="65" HEIGHT="50" WC="0.92" CONTENT="de"/><SP WIDTH="43" VPOS="1034" HPOS="1302"/>
+							<String ID="string_49" HPOS="1345" VPOS="1030" WIDTH="321" HEIGHT="64" WC="0.91" CONTENT="Rondeñas,"/><SP WIDTH="31" VPOS="1030" HPOS="1666"/>
+							<String ID="string_50" HPOS="1697" VPOS="1030" WIDTH="370" HEIGHT="66" WC="0.96" CONTENT="Fandangos,"/><SP WIDTH="28" VPOS="1030" HPOS="2067"/>
+							<String ID="string_51" HPOS="2095" VPOS="1031" WIDTH="176" HEIGHT="65" WC="0.59" CONTENT="Jotas"/><SP WIDTH="28" VPOS="1031" HPOS="2271"/>
+							<String ID="string_52" HPOS="2299" VPOS="1046" WIDTH="128" HEIGHT="36" WC="0.92" CONTENT="ara-"/>
+						</TextLine>
+						<TextLine ID="line_8" HPOS="571" VPOS="1117" WIDTH="1856" HEIGHT="67">
+							<String ID="string_53" HPOS="571" VPOS="1133" WIDTH="255" HEIGHT="51" WC="0.92" CONTENT="gonesas"/><SP WIDTH="25" VPOS="1133" HPOS="826"/>
+							<String ID="string_54" HPOS="851" VPOS="1122" WIDTH="100" HEIGHT="47" WC="0.95" CONTENT="etc."/><SP WIDTH="35" VPOS="1122" HPOS="951"/>
+							<String ID="string_55" HPOS="986" VPOS="1132" WIDTH="102" HEIGHT="51" WC="0.92" CONTENT="que"/><SP WIDTH="28" VPOS="1132" HPOS="1088"/>
+							<String ID="string_56" HPOS="1116" VPOS="1117" WIDTH="229" HEIGHT="51" WC="0.91" CONTENT="anotaba"/><SP WIDTH="30" VPOS="1117" HPOS="1345"/>
+							<String ID="string_57" HPOS="1375" VPOS="1132" WIDTH="97" HEIGHT="35" WC="0.93" CONTENT="con"/><SP WIDTH="30" VPOS="1132" HPOS="1472"/>
+							<String ID="string_58" HPOS="1502" VPOS="1117" WIDTH="219" HEIGHT="51" WC="0.92" CONTENT="cuidosa"/><SP WIDTH="39" VPOS="1117" HPOS="1721"/>
+							<String ID="string_59" HPOS="1760" VPOS="1117" WIDTH="344" HEIGHT="64" WC="0.96" CONTENT="persistencia"/><SP WIDTH="29" VPOS="1117" HPOS="2104"/>
+							<String ID="string_60" HPOS="2133" VPOS="1117" WIDTH="45" HEIGHT="49" WC="0.93" CONTENT="el"/><SP WIDTH="32" VPOS="1117" HPOS="2178"/>
+							<String ID="string_61" HPOS="2210" VPOS="1130" WIDTH="217" HEIGHT="51" WC="0.92" CONTENT="compo-"/>
+						</TextLine>
+						<TextLine ID="line_9" HPOS="577" VPOS="1199" WIDTH="1850" HEIGHT="68">
+							<String ID="string_62" HPOS="577" VPOS="1204" WIDTH="126" HEIGHT="49" WC="0.91" CONTENT="sitor"/><SP WIDTH="27" VPOS="1204" HPOS="703"/>
+							<String ID="string_63" HPOS="730" VPOS="1218" WIDTH="123" HEIGHT="35" WC="0.96" CONTENT="ruso"/><SP WIDTH="39" VPOS="1218" HPOS="853"/>
+							<String ID="string_64" HPOS="892" VPOS="1202" WIDTH="317" HEIGHT="65" WC="0.96" CONTENT="empeñado,"/><SP WIDTH="46" VPOS="1202" HPOS="1209"/>
+							<String ID="string_65" HPOS="1255" VPOS="1202" WIDTH="237" HEIGHT="60" WC="0.96" CONTENT="además,"/><SP WIDTH="45" VPOS="1202" HPOS="1492"/>
+							<String ID="string_66" HPOS="1537" VPOS="1216" WIDTH="64" HEIGHT="35" WC="0.96" CONTENT="en"/><SP WIDTH="29" VPOS="1216" HPOS="1601"/>
+							<String ID="string_67" HPOS="1630" VPOS="1201" WIDTH="228" HEIGHT="51" WC="0.96" CONTENT="traducir"/><SP WIDTH="39" VPOS="1201" HPOS="1858"/>
+							<String ID="string_68" HPOS="1897" VPOS="1201" WIDTH="46" HEIGHT="49" WC="0.96" CONTENT="al"/><SP WIDTH="34" VPOS="1201" HPOS="1943"/>
+							<String ID="string_69" HPOS="1977" VPOS="1201" WIDTH="156" HEIGHT="64" WC="0.96" CONTENT="piano"/><SP WIDTH="43" VPOS="1201" HPOS="2133"/>
+							<String ID="string_70" HPOS="2176" VPOS="1201" WIDTH="78" HEIGHT="50" WC="0.93" CONTENT="los"/><SP WIDTH="32" VPOS="1201" HPOS="2254"/>
+							<String ID="string_71" HPOS="2286" VPOS="1199" WIDTH="141" HEIGHT="52" WC="0.86" CONTENT="etec-"/>
+						</TextLine>
+						<TextLine ID="line_10" HPOS="577" VPOS="1285" WIDTH="1850" HEIGHT="65">
+							<String ID="string_72" HPOS="577" VPOS="1292" WIDTH="83" HEIGHT="46" WC="0.96" CONTENT="tos"/><SP WIDTH="46" VPOS="1292" HPOS="660"/>
+							<String ID="string_73" HPOS="706" VPOS="1287" WIDTH="288" HEIGHT="51" WC="0.84" CONTENT="bellísimos"/><SP WIDTH="46" VPOS="1287" HPOS="994"/>
+							<String ID="string_74" HPOS="1040" VPOS="1290" WIDTH="191" HEIGHT="47" WC="0.96" CONTENT="cuanto"/><SP WIDTH="48" VPOS="1290" HPOS="1231"/>
+							<String ID="string_75" HPOS="1279" VPOS="1285" WIDTH="390" HEIGHT="52" WC="0.96" CONTENT="desconocidos"/><SP WIDTH="54" VPOS="1285" HPOS="1669"/>
+							<String ID="string_76" HPOS="1723" VPOS="1300" WIDTH="102" HEIGHT="50" WC="0.92" CONTENT="que"/><SP WIDTH="52" VPOS="1300" HPOS="1825"/>
+							<String ID="string_77" HPOS="1877" VPOS="1285" WIDTH="197" HEIGHT="51" WC="0.92" CONTENT="sacaba"/><SP WIDTH="49" VPOS="1285" HPOS="2074"/>
+							<String ID="string_78" HPOS="2123" VPOS="1285" WIDTH="304" HEIGHT="64" WC="0.92" CONTENT="Rodriguez"/>
+						</TextLine>
+						<TextLine ID="line_11" HPOS="579" VPOS="1368" WIDTH="1847" HEIGHT="54">
+							<String ID="string_79" HPOS="579" VPOS="1371" WIDTH="273" HEIGHT="51" WC="0.96" CONTENT="Murciano"/><SP WIDTH="30" VPOS="1371" HPOS="852"/>
+							<String ID="string_80" HPOS="882" VPOS="1371" WIDTH="66" HEIGHT="50" WC="0.96" CONTENT="de"/><SP WIDTH="27" VPOS="1371" HPOS="948"/>
+							<String ID="string_81" HPOS="975" VPOS="1371" WIDTH="76" HEIGHT="49" WC="0.96" CONTENT="las"/><SP WIDTH="29" VPOS="1371" HPOS="1051"/>
+							<String ID="string_82" HPOS="1080" VPOS="1370" WIDTH="106" HEIGHT="50" WC="0.87" CONTENT="seis"/><SP WIDTH="41" VPOS="1370" HPOS="1186"/>
+							<String ID="string_83" HPOS="1227" VPOS="1370" WIDTH="244" HEIGHT="50" WC="0.96" CONTENT="sencillas"/><SP WIDTH="29" VPOS="1370" HPOS="1471"/>
+							<String ID="string_84" HPOS="1500" VPOS="1370" WIDTH="224" HEIGHT="51" WC="0.96" CONTENT="cuerdas"/><SP WIDTH="41" VPOS="1370" HPOS="1724"/>
+							<String ID="string_85" HPOS="1765" VPOS="1370" WIDTH="67" HEIGHT="50" WC="0.96" CONTENT="de"/><SP WIDTH="28" VPOS="1370" HPOS="1832"/>
+							<String ID="string_86" HPOS="1860" VPOS="1384" WIDTH="61" HEIGHT="35" WC="0.96" CONTENT="su"/><SP WIDTH="44" VPOS="1384" HPOS="1921"/>
+							<String ID="string_87" HPOS="1965" VPOS="1370" WIDTH="364" HEIGHT="50" WC="0.96" CONTENT="instrumento."/><SP WIDTH="37" VPOS="1370" HPOS="2329"/>
+							<String ID="string_88" HPOS="2366" VPOS="1368" WIDTH="60" HEIGHT="51" WC="0.93" CONTENT="El"/>
+						</TextLine>
+						<TextLine ID="line_12" HPOS="579" VPOS="1453" WIDTH="1849" HEIGHT="67">
+							<String ID="string_89" HPOS="579" VPOS="1458" WIDTH="228" HEIGHT="62" WC="0.96" CONTENT="empeño"/><SP WIDTH="38" VPOS="1458" HPOS="807"/>
+							<String ID="string_90" HPOS="845" VPOS="1455" WIDTH="66" HEIGHT="50" WC="0.93" CONTENT="de"/><SP WIDTH="30" VPOS="1455" HPOS="911"/>
+							<String ID="string_91" HPOS="941" VPOS="1453" WIDTH="212" HEIGHT="62" WC="0.90" CONTENT="Glinka,"/><SP WIDTH="34" VPOS="1453" HPOS="1153"/>
+							<String ID="string_92" HPOS="1187" VPOS="1454" WIDTH="206" HEIGHT="51" WC="0.95" CONTENT="cuando"/><SP WIDTH="29" VPOS="1454" HPOS="1393"/>
+							<String ID="string_93" HPOS="1422" VPOS="1469" WIDTH="67" HEIGHT="35" WC="0.96" CONTENT="no"/><SP WIDTH="29" VPOS="1469" HPOS="1489"/>
+							<String ID="string_94" HPOS="1518" VPOS="1454" WIDTH="267" HEIGHT="51" WC="0.96" CONTENT="resultaba"/><SP WIDTH="30" VPOS="1454" HPOS="1785"/>
+							<String ID="string_95" HPOS="1815" VPOS="1454" WIDTH="300" HEIGHT="64" WC="0.96" CONTENT="imposible,"/><SP WIDTH="34" VPOS="1454" HPOS="2115"/>
+							<String ID="string_96" HPOS="2149" VPOS="1468" WIDTH="89" HEIGHT="36" WC="0.93" CONTENT="era"/><SP WIDTH="30" VPOS="1468" HPOS="2238"/>
+							<String ID="string_97" HPOS="2268" VPOS="1453" WIDTH="160" HEIGHT="52" WC="0.92" CONTENT="aban-"/>
+						</TextLine>
+						<TextLine ID="line_13" HPOS="580" VPOS="1538" WIDTH="1850" HEIGHT="65">
+							<String ID="string_98" HPOS="580" VPOS="1540" WIDTH="211" HEIGHT="50" WC="0.96" CONTENT="donado"/><SP WIDTH="40" VPOS="1540" HPOS="791"/>
+							<String ID="string_99" HPOS="831" VPOS="1542" WIDTH="388" HEIGHT="60" WC="0.96" CONTENT="prontamente,"/><SP WIDTH="44" VPOS="1542" HPOS="1219"/>
+							<String ID="string_100" HPOS="1263" VPOS="1553" WIDTH="133" HEIGHT="50" WC="0.96" CONTENT="pues"/><SP WIDTH="30" VPOS="1553" HPOS="1396"/>
+							<String ID="string_101" HPOS="1426" VPOS="1553" WIDTH="154" HEIGHT="36" WC="0.93" CONTENT="como"/><SP WIDTH="41" VPOS="1553" HPOS="1580"/>
+							<String ID="string_102" HPOS="1621" VPOS="1538" WIDTH="377" HEIGHT="65" WC="0.91" CONTENT="magnetizado"/><SP WIDTH="42" VPOS="1538" HPOS="1998"/>
+							<String ID="string_103" HPOS="2040" VPOS="1553" WIDTH="60" HEIGHT="35" WC="0.96" CONTENT="se"/><SP WIDTH="40" VPOS="1553" HPOS="2100"/>
+							<String ID="string_104" HPOS="2140" VPOS="1538" WIDTH="182" HEIGHT="51" WC="0.96" CONTENT="volvía"/><SP WIDTH="41" VPOS="1538" HPOS="2322"/>
+							<String ID="string_105" HPOS="2363" VPOS="1538" WIDTH="67" HEIGHT="51" WC="0.96" CONTENT="de"/>
+						</TextLine>
+						<TextLine ID="line_14" HPOS="581" VPOS="1622" WIDTH="1848" HEIGHT="68">
+							<String ID="string_106" HPOS="581" VPOS="1627" WIDTH="222" HEIGHT="62" WC="0.96" CONTENT="repente"/><SP WIDTH="29" VPOS="1627" HPOS="803"/>
+							<String ID="string_107" HPOS="832" VPOS="1623" WIDTH="148" HEIGHT="51" WC="0.96" CONTENT="hacia"/><SP WIDTH="37" VPOS="1623" HPOS="980"/>
+							<String ID="string_108" HPOS="1017" VPOS="1637" WIDTH="61" HEIGHT="36" WC="0.96" CONTENT="su"/><SP WIDTH="23" VPOS="1637" HPOS="1078"/>
+							<String ID="string_109" HPOS="1101" VPOS="1625" WIDTH="328" HEIGHT="65" WC="0.96" CONTENT="compañero"/><SP WIDTH="31" VPOS="1625" HPOS="1429"/>
+							<String ID="string_110" HPOS="1460" VPOS="1622" WIDTH="282" HEIGHT="65" WC="0.96" CONTENT="quedando"/><SP WIDTH="29" VPOS="1622" HPOS="1742"/>
+							<String ID="string_111" HPOS="1771" VPOS="1637" WIDTH="156" HEIGHT="36" WC="0.96" CONTENT="como"/><SP WIDTH="29" VPOS="1637" HPOS="1927"/>
+							<String ID="string_112" HPOS="1956" VPOS="1623" WIDTH="279" HEIGHT="50" WC="0.93" CONTENT="extasiado"/><SP WIDTH="31" VPOS="1623" HPOS="2235"/>
+							<String ID="string_113" HPOS="2266" VPOS="1637" WIDTH="163" HEIGHT="51" WC="0.92" CONTENT="oyen-"/>
+						</TextLine>
+						<TextLine ID="line_15" HPOS="578" VPOS="1706" WIDTH="1851" HEIGHT="66">
+							<String ID="string_114" HPOS="578" VPOS="1708" WIDTH="67" HEIGHT="50" WC="0.96" CONTENT="do"/><SP WIDTH="41" VPOS="1708" HPOS="645"/>
+							<String ID="string_115" HPOS="686" VPOS="1707" WIDTH="45" HEIGHT="50" WC="0.96" CONTENT="la"/><SP WIDTH="41" VPOS="1707" HPOS="731"/>
+							<String ID="string_116" HPOS="772" VPOS="1708" WIDTH="229" HEIGHT="64" WC="0.96" CONTENT="guitarra"/><SP WIDTH="40" VPOS="1708" HPOS="1001"/>
+							<String ID="string_117" HPOS="1041" VPOS="1723" WIDTH="34" HEIGHT="48" WC="0.96" CONTENT="y"/><SP WIDTH="46" VPOS="1723" HPOS="1075"/>
+							<String ID="string_118" HPOS="1121" VPOS="1707" WIDTH="306" HEIGHT="50" WC="0.96" CONTENT="admirando"/><SP WIDTH="29" VPOS="1707" HPOS="1427"/>
+							<String ID="string_119" HPOS="1456" VPOS="1706" WIDTH="80" HEIGHT="50" WC="0.96" CONTENT="los"/><SP WIDTH="41" VPOS="1706" HPOS="1536"/>
+							<String ID="string_120" HPOS="1577" VPOS="1721" WIDTH="162" HEIGHT="35" WC="0.96" CONTENT="sones"/><SP WIDTH="43" VPOS="1721" HPOS="1739"/>
+							<String ID="string_121" HPOS="1782" VPOS="1721" WIDTH="102" HEIGHT="50" WC="0.96" CONTENT="que"/><SP WIDTH="29" VPOS="1721" HPOS="1884"/>
+							<String ID="string_122" HPOS="1913" VPOS="1707" WIDTH="289" HEIGHT="50" WC="0.96" CONTENT="arrancaba"/><SP WIDTH="41" VPOS="1707" HPOS="2202"/>
+							<String ID="string_123" HPOS="2243" VPOS="1707" WIDTH="67" HEIGHT="50" WC="0.96" CONTENT="de"/><SP WIDTH="41" VPOS="1707" HPOS="2310"/>
+							<String ID="string_124" HPOS="2351" VPOS="1707" WIDTH="78" HEIGHT="50" WC="0.96" CONTENT="las"/>
+						</TextLine>
+						<TextLine ID="line_16" HPOS="577" VPOS="1789" WIDTH="1851" HEIGHT="53">
+							<String ID="string_125" HPOS="577" VPOS="1792" WIDTH="242" HEIGHT="50" WC="0.96" CONTENT="cuerdas."/><SP WIDTH="34" VPOS="1792" HPOS="819"/>
+							<String ID="string_126" HPOS="853" VPOS="1791" WIDTH="104" HEIGHT="51" WC="0.96" CONTENT="Los"/><SP WIDTH="29" VPOS="1791" HPOS="957"/>
+							<String ID="string_127" HPOS="986" VPOS="1794" WIDTH="113" HEIGHT="47" WC="0.96" CONTENT="más"/><SP WIDTH="23" VPOS="1794" HPOS="1099"/>
+							<String ID="string_128" HPOS="1122" VPOS="1790" WIDTH="380" HEIGHT="51" WC="0.95" CONTENT="renombrados"/><SP WIDTH="43" VPOS="1790" HPOS="1502"/>
+							<String ID="string_129" HPOS="1545" VPOS="1794" WIDTH="307" HEIGHT="46" WC="0.93" CONTENT="cantaores"/><SP WIDTH="39" VPOS="1794" HPOS="1852"/>
+							<String ID="string_130" HPOS="1891" VPOS="1791" WIDTH="66" HEIGHT="50" WC="0.96" CONTENT="de"/><SP WIDTH="39" VPOS="1791" HPOS="1957"/>
+							<String ID="string_131" HPOS="1996" VPOS="1791" WIDTH="125" HEIGHT="51" WC="0.96" CONTENT="toda"/><SP WIDTH="41" VPOS="1791" HPOS="2121"/>
+							<String ID="string_132" HPOS="2162" VPOS="1790" WIDTH="47" HEIGHT="51" WC="0.92" CONTENT="la"/><SP WIDTH="42" VPOS="1790" HPOS="2209"/>
+							<String ID="string_133" HPOS="2251" VPOS="1789" WIDTH="177" HEIGHT="53" WC="0.91" CONTENT="Anda-"/>
+						</TextLine>
+						<TextLine ID="line_17" HPOS="577" VPOS="1875" WIDTH="1851" HEIGHT="66">
+							<String ID="string_134" HPOS="577" VPOS="1876" WIDTH="132" HEIGHT="50" WC="0.93" CONTENT="lucía"/><SP WIDTH="41" VPOS="1876" HPOS="709"/>
+							<String ID="string_135" HPOS="750" VPOS="1875" WIDTH="371" HEIGHT="66" WC="0.91" CONTENT="proclamaban"/><SP WIDTH="42" VPOS="1875" HPOS="1121"/>
+							<String ID="string_136" HPOS="1163" VPOS="1875" WIDTH="428" HEIGHT="50" WC="0.96" CONTENT="unánimemente"/><SP WIDTH="33" VPOS="1875" HPOS="1591"/>
+							<String ID="string_137" HPOS="1624" VPOS="1889" WIDTH="102" HEIGHT="50" WC="0.96" CONTENT="que"/><SP WIDTH="30" VPOS="1889" HPOS="1726"/>
+							<String ID="string_138" HPOS="1756" VPOS="1875" WIDTH="45" HEIGHT="50" WC="0.96" CONTENT="la"/><SP WIDTH="32" VPOS="1875" HPOS="1801"/>
+							<String ID="string_139" HPOS="1833" VPOS="1889" WIDTH="213" HEIGHT="36" WC="0.96" CONTENT="manera"/><SP WIDTH="42" VPOS="1889" HPOS="2046"/>
+							<String ID="string_140" HPOS="2088" VPOS="1876" WIDTH="67" HEIGHT="49" WC="0.93" CONTENT="de"/><SP WIDTH="23" VPOS="1876" HPOS="2155"/>
+							<String ID="string_141" HPOS="2178" VPOS="1889" WIDTH="250" HEIGHT="51" WC="0.91" CONTENT="acompa-"/>
+						</TextLine>
+						<TextLine ID="line_18" HPOS="578" VPOS="1958" WIDTH="1850" HEIGHT="66">
+							<String ID="string_142" HPOS="578" VPOS="1963" WIDTH="90" HEIGHT="47" WC="0.91" CONTENT="ñar"/><SP WIDTH="41" VPOS="1963" HPOS="668"/>
+							<String ID="string_143" HPOS="709" VPOS="1960" WIDTH="76" HEIGHT="50" WC="0.96" CONTENT="las"/><SP WIDTH="41" VPOS="1960" HPOS="785"/>
+							<String ID="string_144" HPOS="826" VPOS="1960" WIDTH="283" HEIGHT="50" WC="0.96" CONTENT="canciones"/><SP WIDTH="40" VPOS="1960" HPOS="1109"/>
+							<String ID="string_145" HPOS="1149" VPOS="1959" WIDTH="256" HEIGHT="50" WC="0.96" CONTENT="bailables"/><SP WIDTH="41" VPOS="1959" HPOS="1405"/>
+							<String ID="string_146" HPOS="1446" VPOS="1958" WIDTH="46" HEIGHT="50" WC="0.96" CONTENT="el"/><SP WIDTH="43" VPOS="1958" HPOS="1492"/>
+							<String ID="string_147" HPOS="1535" VPOS="1960" WIDTH="306" HEIGHT="60" WC="0.95" CONTENT="murciano,"/><SP WIDTH="46" VPOS="1960" HPOS="1841"/>
+							<String ID="string_148" HPOS="1887" VPOS="1961" WIDTH="81" HEIGHT="48" WC="0.95" CONTENT="así"/><SP WIDTH="39" VPOS="1961" HPOS="1968"/>
+							<String ID="string_149" HPOS="2007" VPOS="1959" WIDTH="47" HEIGHT="52" WC="0.93" CONTENT="le"/><SP WIDTH="40" VPOS="1959" HPOS="2054"/>
+							<String ID="string_150" HPOS="2094" VPOS="1959" WIDTH="334" HEIGHT="65" WC="0.92" CONTENT="apellidaban"/>
+						</TextLine>
+						<TextLine ID="line_19" HPOS="578" VPOS="2043" WIDTH="1847" HEIGHT="64">
+							<String ID="string_151" HPOS="578" VPOS="2058" WIDTH="67" HEIGHT="36" WC="0.96" CONTENT="no"/><SP WIDTH="27" VPOS="2058" HPOS="645"/>
+							<String ID="string_152" HPOS="672" VPOS="2045" WIDTH="141" HEIGHT="48" WC="0.96" CONTENT="tenía"/><SP WIDTH="28" VPOS="2045" HPOS="813"/>
+							<String ID="string_153" HPOS="841" VPOS="2044" WIDTH="313" HEIGHT="63" WC="0.96" CONTENT="semejante,"/><SP WIDTH="30" VPOS="2044" HPOS="1154"/>
+							<String ID="string_154" HPOS="1184" VPOS="2043" WIDTH="47" HEIGHT="49" WC="0.96" CONTENT="ni"/><SP WIDTH="33" VPOS="2043" HPOS="1231"/>
+							<String ID="string_155" HPOS="1264" VPOS="2057" WIDTH="94" HEIGHT="50" WC="0.96" CONTENT="por"/><SP WIDTH="21" VPOS="2057" HPOS="1358"/>
+							<String ID="string_156" HPOS="1379" VPOS="2043" WIDTH="47" HEIGHT="49" WC="0.96" CONTENT="la"/><SP WIDTH="29" VPOS="2043" HPOS="1426"/>
+							<String ID="string_157" HPOS="1455" VPOS="2043" WIDTH="213" HEIGHT="64" WC="0.96" CONTENT="riqueza"/><SP WIDTH="28" VPOS="2043" HPOS="1668"/>
+							<String ID="string_158" HPOS="1696" VPOS="2059" WIDTH="33" HEIGHT="48" WC="0.96" CONTENT="y"/><SP WIDTH="24" VPOS="2059" HPOS="1729"/>
+							<String ID="string_159" HPOS="1753" VPOS="2043" WIDTH="251" HEIGHT="51" WC="0.96" CONTENT="novedad"/><SP WIDTH="29" VPOS="2043" HPOS="2004"/>
+							<String ID="string_160" HPOS="2033" VPOS="2043" WIDTH="67" HEIGHT="51" WC="0.96" CONTENT="de"/><SP WIDTH="22" VPOS="2043" HPOS="2100"/>
+							<String ID="string_161" HPOS="2122" VPOS="2043" WIDTH="79" HEIGHT="51" WC="0.96" CONTENT="los"/><SP WIDTH="23" VPOS="2043" HPOS="2201"/>
+							<String ID="string_162" HPOS="2224" VPOS="2044" WIDTH="201" HEIGHT="61" WC="0.17" CONTENT="ritmos,"/>
+						</TextLine>
+						<TextLine ID="line_20" HPOS="574" VPOS="2127" WIDTH="1854" HEIGHT="65">
+							<String ID="string_163" HPOS="574" VPOS="2128" WIDTH="47" HEIGHT="49" WC="0.96" CONTENT="ni"/><SP WIDTH="30" VPOS="2128" HPOS="621"/>
+							<String ID="string_164" HPOS="651" VPOS="2142" WIDTH="94" HEIGHT="50" WC="0.96" CONTENT="por"/><SP WIDTH="28" VPOS="2142" HPOS="745"/>
+							<String ID="string_165" HPOS="773" VPOS="2128" WIDTH="45" HEIGHT="49" WC="0.96" CONTENT="el"/><SP WIDTH="31" VPOS="2128" HPOS="818"/>
+							<String ID="string_166" HPOS="849" VPOS="2127" WIDTH="389" HEIGHT="64" WC="0.96" CONTENT="sorprendente"/><SP WIDTH="28" VPOS="2127" HPOS="1238"/>
+							<String ID="string_167" HPOS="1266" VPOS="2127" WIDTH="475" HEIGHT="51" WC="0.96" CONTENT="encadenamiento"/><SP WIDTH="24" VPOS="2127" HPOS="1741"/>
+							<String ID="string_168" HPOS="1765" VPOS="2127" WIDTH="67" HEIGHT="51" WC="0.96" CONTENT="de"/><SP WIDTH="29" VPOS="2127" HPOS="1832"/>
+							<String ID="string_169" HPOS="1861" VPOS="2128" WIDTH="246" HEIGHT="50" WC="0.96" CONTENT="acordes."/><SP WIDTH="33" VPOS="2128" HPOS="2107"/>
+							<String ID="string_170" HPOS="2140" VPOS="2127" WIDTH="85" HEIGHT="51" WC="0.92" CONTENT="De"/><SP WIDTH="27" VPOS="2127" HPOS="2225"/>
+							<String ID="string_171" HPOS="2252" VPOS="2131" WIDTH="176" HEIGHT="48" WC="0.92" CONTENT="carác-"/>
+						</TextLine>
+						<TextLine ID="line_21" HPOS="573" VPOS="2210" WIDTH="1856" HEIGHT="67">
+							<String ID="string_172" HPOS="573" VPOS="2215" WIDTH="78" HEIGHT="47" WC="0.96" CONTENT="ter"/><SP WIDTH="29" VPOS="2215" HPOS="651"/>
+							<String ID="string_173" HPOS="680" VPOS="2212" WIDTH="243" HEIGHT="51" WC="0.96" CONTENT="modesto"/><SP WIDTH="41" VPOS="2212" HPOS="923"/>
+							<String ID="string_174" HPOS="964" VPOS="2226" WIDTH="169" HEIGHT="36" WC="0.95" CONTENT="nunca"/><SP WIDTH="29" VPOS="2226" HPOS="1133"/>
+							<String ID="string_175" HPOS="1162" VPOS="2210" WIDTH="119" HEIGHT="51" WC="0.96" CONTENT="hizo"/><SP WIDTH="41" VPOS="2210" HPOS="1281"/>
+							<String ID="string_176" HPOS="1322" VPOS="2211" WIDTH="147" HEIGHT="50" WC="0.96" CONTENT="valer"/><SP WIDTH="39" VPOS="2211" HPOS="1469"/>
+							<String ID="string_177" HPOS="1508" VPOS="2226" WIDTH="61" HEIGHT="35" WC="0.96" CONTENT="su"/><SP WIDTH="40" VPOS="2226" HPOS="1569"/>
+							<String ID="string_178" HPOS="1609" VPOS="2212" WIDTH="200" HEIGHT="50" WC="0.96" CONTENT="talento"/><SP WIDTH="41" VPOS="2212" HPOS="1809"/>
+							<String ID="string_179" HPOS="1850" VPOS="2212" WIDTH="234" HEIGHT="64" WC="0.95" CONTENT="singular"/><SP WIDTH="38" VPOS="2212" HPOS="2084"/>
+							<String ID="string_180" HPOS="2122" VPOS="2229" WIDTH="34" HEIGHT="48" WC="0.96" CONTENT="y"/><SP WIDTH="42" VPOS="2229" HPOS="2156"/>
+							<String ID="string_181" HPOS="2198" VPOS="2212" WIDTH="231" HEIGHT="65" WC="0.96" CONTENT="siempre"/>
+						</TextLine>
+						<TextLine ID="line_22" HPOS="573" VPOS="2296" WIDTH="1855" HEIGHT="65">
+							<String ID="string_182" HPOS="573" VPOS="2297" WIDTH="124" HEIGHT="49" WC="0.92" CONTENT="tañó"/><SP WIDTH="40" VPOS="2297" HPOS="697"/>
+							<String ID="string_183" HPOS="737" VPOS="2311" WIDTH="64" HEIGHT="35" WC="0.96" CONTENT="en"/><SP WIDTH="47" VPOS="2311" HPOS="801"/>
+							<String ID="string_184" HPOS="848" VPOS="2296" WIDTH="229" HEIGHT="65" WC="0.96" CONTENT="guitarra"/><SP WIDTH="48" VPOS="2296" HPOS="1077"/>
+							<String ID="string_185" HPOS="1125" VPOS="2311" WIDTH="125" HEIGHT="49" WC="0.95" CONTENT="para"/><SP WIDTH="41" VPOS="2311" HPOS="1250"/>
+							<String ID="string_186" HPOS="1291" VPOS="2310" WIDTH="61" HEIGHT="36" WC="0.96" CONTENT="su"/><SP WIDTH="49" VPOS="2310" HPOS="1352"/>
+							<String ID="string_187" HPOS="1401" VPOS="2296" WIDTH="186" HEIGHT="65" WC="0.93" CONTENT="propio"/><SP WIDTH="42" VPOS="2296" HPOS="1587"/>
+							<String ID="string_188" HPOS="1629" VPOS="2296" WIDTH="167" HEIGHT="61" WC="0.93" CONTENT="solaz,"/><SP WIDTH="47" VPOS="2296" HPOS="1796"/>
+							<String ID="string_189" HPOS="1843" VPOS="2311" WIDTH="30" HEIGHT="35" WC="0.95" CONTENT="o"/><SP WIDTH="48" VPOS="2311" HPOS="1873"/>
+							<String ID="string_190" HPOS="1921" VPOS="2311" WIDTH="96" HEIGHT="50" WC="0.96" CONTENT="por"/><SP WIDTH="40" VPOS="2311" HPOS="2017"/>
+							<String ID="string_191" HPOS="2057" VPOS="2296" WIDTH="302" HEIGHT="65" WC="0.96" CONTENT="complacer"/><SP WIDTH="39" VPOS="2296" HPOS="2359"/>
+							<String ID="string_192" HPOS="2398" VPOS="2312" WIDTH="30" HEIGHT="35" WC="0.96" CONTENT="a"/>
+						</TextLine>
+						<TextLine ID="line_23" HPOS="574" VPOS="2380" WIDTH="1854" HEIGHT="66">
+							<String ID="string_193" HPOS="574" VPOS="2395" WIDTH="92" HEIGHT="36" WC="0.96" CONTENT="sus"/><SP WIDTH="41" VPOS="2395" HPOS="666"/>
+							<String ID="string_194" HPOS="707" VPOS="2381" WIDTH="224" HEIGHT="64" WC="0.96" CONTENT="amigos,"/><SP WIDTH="47" VPOS="2381" HPOS="931"/>
+							<String ID="string_195" HPOS="978" VPOS="2395" WIDTH="102" HEIGHT="50" WC="0.96" CONTENT="que"/><SP WIDTH="33" VPOS="2395" HPOS="1080"/>
+							<String ID="string_196" HPOS="1113" VPOS="2380" WIDTH="221" HEIGHT="51" WC="0.96" CONTENT="muchos"/><SP WIDTH="42" VPOS="2380" HPOS="1334"/>
+							<String ID="string_197" HPOS="1376" VPOS="2380" WIDTH="47" HEIGHT="50" WC="0.92" CONTENT="le"/><SP WIDTH="40" VPOS="2380" HPOS="1423"/>
+							<String ID="string_198" HPOS="1463" VPOS="2381" WIDTH="221" HEIGHT="64" WC="0.91" CONTENT="granjeó"/><SP WIDTH="30" VPOS="2381" HPOS="1684"/>
+							<String ID="string_199" HPOS="1714" VPOS="2395" WIDTH="61" HEIGHT="36" WC="0.96" CONTENT="su"/><SP WIDTH="42" VPOS="2395" HPOS="1775"/>
+							<String ID="string_200" HPOS="1817" VPOS="2381" WIDTH="139" HEIGHT="51" WC="0.96" CONTENT="buen"/><SP WIDTH="40" VPOS="2381" HPOS="1956"/>
+							<String ID="string_201" HPOS="1996" VPOS="2384" WIDTH="236" HEIGHT="48" WC="0.96" CONTENT="carácter"/><SP WIDTH="28" VPOS="2384" HPOS="2232"/>
+							<String ID="string_202" HPOS="2260" VPOS="2398" WIDTH="33" HEIGHT="48" WC="0.96" CONTENT="y"/><SP WIDTH="27" VPOS="2398" HPOS="2293"/>
+							<String ID="string_203" HPOS="2320" VPOS="2380" WIDTH="108" HEIGHT="52" WC="0.96" CONTENT="fina"/>
+						</TextLine>
+						<TextLine ID="line_24" HPOS="573" VPOS="2463" WIDTH="1854" HEIGHT="68">
+							<String ID="string_204" HPOS="573" VPOS="2465" WIDTH="177" HEIGHT="64" WC="0.82" CONTENT="gracia"/><SP WIDTH="29" VPOS="2465" HPOS="750"/>
+							<String ID="string_205" HPOS="779" VPOS="2464" WIDTH="278" HEIGHT="52" WC="0.96" CONTENT="andaluza."/><SP WIDTH="33" VPOS="2464" HPOS="1057"/>
+							<String ID="string_206" HPOS="1090" VPOS="2463" WIDTH="134" HEIGHT="51" WC="0.96" CONTENT="Pero"/><SP WIDTH="29" VPOS="2463" HPOS="1224"/>
+							<String ID="string_207" HPOS="1253" VPOS="2465" WIDTH="41" HEIGHT="49" WC="0.88" CONTENT="si"/><SP WIDTH="30" VPOS="2465" HPOS="1294"/>
+							<String ID="string_208" HPOS="1324" VPOS="2465" WIDTH="46" HEIGHT="49" WC="0.96" CONTENT="el"/><SP WIDTH="25" VPOS="2465" HPOS="1370"/>
+							<String ID="string_209" HPOS="1395" VPOS="2479" WIDTH="68" HEIGHT="36" WC="0.96" CONTENT="no"/><SP WIDTH="41" VPOS="2479" HPOS="1463"/>
+							<String ID="string_210" HPOS="1504" VPOS="2464" WIDTH="228" HEIGHT="52" WC="0.93" CONTENT="haberse"/><SP WIDTH="41" VPOS="2464" HPOS="1732"/>
+							<String ID="string_211" HPOS="1773" VPOS="2465" WIDTH="250" HEIGHT="64" WC="0.92" CONTENT="sujetado"/><SP WIDTH="41" VPOS="2465" HPOS="2023"/>
+							<String ID="string_212" HPOS="2064" VPOS="2481" WIDTH="29" HEIGHT="34" WC="0.95" CONTENT="a"/><SP WIDTH="29" VPOS="2481" HPOS="2093"/>
+							<String ID="string_213" HPOS="2122" VPOS="2465" WIDTH="80" HEIGHT="51" WC="0.93" CONTENT="los"/><SP WIDTH="41" VPOS="2465" HPOS="2202"/>
+							<String ID="string_214" HPOS="2243" VPOS="2466" WIDTH="184" HEIGHT="65" WC="0.92" CONTENT="princi-"/>
+						</TextLine>
+						<TextLine ID="line_25" HPOS="574" VPOS="2547" WIDTH="1853" HEIGHT="69">
+							<String ID="string_215" HPOS="574" VPOS="2550" WIDTH="116" HEIGHT="64" WC="0.96" CONTENT="pios"/><SP WIDTH="41" VPOS="2550" HPOS="690"/>
+							<String ID="string_216" HPOS="731" VPOS="2550" WIDTH="67" HEIGHT="50" WC="0.96" CONTENT="de"/><SP WIDTH="28" VPOS="2550" HPOS="798"/>
+							<String ID="string_217" HPOS="826" VPOS="2549" WIDTH="46" HEIGHT="50" WC="0.96" CONTENT="la"/><SP WIDTH="29" VPOS="2549" HPOS="872"/>
+							<String ID="string_218" HPOS="901" VPOS="2549" WIDTH="200" HEIGHT="51" WC="0.96" CONTENT="música"/><SP WIDTH="39" VPOS="2549" HPOS="1101"/>
+							<String ID="string_219" HPOS="1140" VPOS="2547" WIDTH="275" HEIGHT="53" WC="0.93" CONTENT="favoreció"/><SP WIDTH="42" VPOS="2547" HPOS="1415"/>
+							<String ID="string_220" HPOS="1457" VPOS="2549" WIDTH="46" HEIGHT="50" WC="0.96" CONTENT="la"/><SP WIDTH="29" VPOS="2549" HPOS="1503"/>
+							<String ID="string_221" HPOS="1532" VPOS="2550" WIDTH="426" HEIGHT="64" WC="0.96" CONTENT="espontaneidad"/><SP WIDTH="41" VPOS="2550" HPOS="1958"/>
+							<String ID="string_222" HPOS="1999" VPOS="2550" WIDTH="67" HEIGHT="51" WC="0.96" CONTENT="de"/><SP WIDTH="40" VPOS="2550" HPOS="2066"/>
+							<String ID="string_223" HPOS="2106" VPOS="2565" WIDTH="63" HEIGHT="36" WC="0.93" CONTENT="su"/><SP WIDTH="41" VPOS="2565" HPOS="2169"/>
+							<String ID="string_224" HPOS="2210" VPOS="2550" WIDTH="217" HEIGHT="66" WC="0.89" CONTENT="inspira-"/>
+						</TextLine>
+						<TextLine ID="line_26" HPOS="574" VPOS="2632" WIDTH="1855" HEIGHT="66">
+							<String ID="string_225" HPOS="574" VPOS="2633" WIDTH="134" HEIGHT="62" WC="0.96" CONTENT="ción,"/><SP WIDTH="34" VPOS="2633" HPOS="708"/>
+							<String ID="string_226" HPOS="742" VPOS="2647" WIDTH="102" HEIGHT="51" WC="0.96" CONTENT="que"/><SP WIDTH="28" VPOS="2647" HPOS="844"/>
+							<String ID="string_227" HPOS="872" VPOS="2633" WIDTH="230" HEIGHT="65" WC="0.96" CONTENT="ninguna"/><SP WIDTH="29" VPOS="2633" HPOS="1102"/>
+							<String ID="string_228" HPOS="1131" VPOS="2633" WIDTH="146" HEIGHT="65" WC="0.93" CONTENT="regla"/><SP WIDTH="29" VPOS="2633" HPOS="1277"/>
+							<String ID="string_229" HPOS="1306" VPOS="2632" WIDTH="309" HEIGHT="63" WC="0.51" CONTENT="enfrenaba,"/><SP WIDTH="33" VPOS="2632" HPOS="1615"/>
+							<String ID="string_230" HPOS="1648" VPOS="2648" WIDTH="65" HEIGHT="35" WC="0.96" CONTENT="en"/><SP WIDTH="31" VPOS="2648" HPOS="1713"/>
+							<String ID="string_231" HPOS="1744" VPOS="2635" WIDTH="206" HEIGHT="51" WC="0.96" CONTENT="cambio"/><SP WIDTH="30" VPOS="2635" HPOS="1950"/>
+							<String ID="string_232" HPOS="1980" VPOS="2649" WIDTH="60" HEIGHT="35" WC="0.97" CONTENT="es"/><SP WIDTH="39" VPOS="2649" HPOS="2040"/>
+							<String ID="string_233" HPOS="2079" VPOS="2635" WIDTH="67" HEIGHT="50" WC="0.96" CONTENT="de"/><SP WIDTH="28" VPOS="2635" HPOS="2146"/>
+							<String ID="string_234" HPOS="2174" VPOS="2634" WIDTH="255" HEIGHT="51" WC="0.96" CONTENT="lamentar"/>
+						</TextLine>
+						<TextLine ID="line_27" HPOS="574" VPOS="2717" WIDTH="1854" HEIGHT="67">
+							<String ID="string_235" HPOS="574" VPOS="2732" WIDTH="101" HEIGHT="50" WC="0.96" CONTENT="que"/><SP WIDTH="29" VPOS="2732" HPOS="675"/>
+							<String ID="string_236" HPOS="704" VPOS="2732" WIDTH="60" HEIGHT="35" WC="0.93" CONTENT="se"/><SP WIDTH="28" VPOS="2732" HPOS="764"/>
+							<String ID="string_237" HPOS="792" VPOS="2717" WIDTH="280" HEIGHT="65" WC="0.92" CONTENT="perdiesen"/><SP WIDTH="39" VPOS="2717" HPOS="1072"/>
+							<String ID="string_238" HPOS="1111" VPOS="2717" WIDTH="240" HEIGHT="65" WC="0.96" CONTENT="aquellos"/><SP WIDTH="41" VPOS="2717" HPOS="1351"/>
+							<String ID="string_239" HPOS="1392" VPOS="2732" WIDTH="211" HEIGHT="50" WC="0.96" CONTENT="rasgos,"/><SP WIDTH="35" VPOS="2732" HPOS="1603"/>
+							<String ID="string_240" HPOS="1638" VPOS="2718" WIDTH="204" HEIGHT="65" WC="0.96" CONTENT="quizás,"/><SP WIDTH="48" VPOS="2718" HPOS="1842"/>
+							<String ID="string_241" HPOS="1890" VPOS="2733" WIDTH="154" HEIGHT="36" WC="0.93" CONTENT="como"/><SP WIDTH="41" VPOS="2733" HPOS="2044"/>
+							<String ID="string_242" HPOS="2085" VPOS="2718" WIDTH="343" HEIGHT="66" WC="0.92" CONTENT="evaporados"/>
+						</TextLine>
+						<TextLine ID="line_28" HPOS="573" VPOS="2801" WIDTH="1855" HEIGHT="67">
+							<String ID="string_243" HPOS="573" VPOS="2815" WIDTH="63" HEIGHT="36" WC="0.96" CONTENT="en"/><SP WIDTH="30" VPOS="2815" HPOS="636"/>
+							<String ID="string_244" HPOS="666" VPOS="2801" WIDTH="46" HEIGHT="51" WC="0.96" CONTENT="el"/><SP WIDTH="41" VPOS="2801" HPOS="712"/>
+							<String ID="string_245" HPOS="753" VPOS="2802" WIDTH="237" HEIGHT="64" WC="0.96" CONTENT="espacio;"/><SP WIDTH="44" VPOS="2802" HPOS="990"/>
+							<String ID="string_246" HPOS="1034" VPOS="2817" WIDTH="35" HEIGHT="50" WC="0.95" CONTENT="y"/><SP WIDTH="28" VPOS="2817" HPOS="1069"/>
+							<String ID="string_247" HPOS="1097" VPOS="2803" WIDTH="100" HEIGHT="49" WC="0.96" CONTENT="aún"/><SP WIDTH="34" VPOS="2803" HPOS="1197"/>
+							<String ID="string_248" HPOS="1231" VPOS="2801" WIDTH="217" HEIGHT="51" WC="0.96" CONTENT="muchas"/><SP WIDTH="39" VPOS="2801" HPOS="1448"/>
+							<String ID="string_249" HPOS="1487" VPOS="2816" WIDTH="165" HEIGHT="37" WC="0.96" CONTENT="veces"/><SP WIDTH="47" VPOS="2816" HPOS="1652"/>
+							<String ID="string_250" HPOS="1699" VPOS="2802" WIDTH="45" HEIGHT="50" WC="0.96" CONTENT="al"/><SP WIDTH="50" VPOS="2802" HPOS="1744"/>
+							<String ID="string_251" HPOS="1794" VPOS="2803" WIDTH="219" HEIGHT="65" WC="0.96" CONTENT="pedirle,"/><SP WIDTH="47" VPOS="2803" HPOS="2013"/>
+							<String ID="string_252" HPOS="2060" VPOS="2818" WIDTH="95" HEIGHT="50" WC="0.96" CONTENT="por"/><SP WIDTH="40" VPOS="2818" HPOS="2155"/>
+							<String ID="string_253" HPOS="2195" VPOS="2803" WIDTH="233" HEIGHT="65" WC="0.96" CONTENT="ejemplo"/>
+						</TextLine>
+						<TextLine ID="line_29" HPOS="576" VPOS="2884" WIDTH="1851" HEIGHT="69">
+							<String ID="string_254" HPOS="576" VPOS="2884" WIDTH="194" HEIGHT="52" WC="0.88" CONTENT="Glinka"/><SP WIDTH="29" VPOS="2884" HPOS="770"/>
+							<String ID="string_255" HPOS="799" VPOS="2900" WIDTH="31" HEIGHT="36" WC="0.96" CONTENT="o"/><SP WIDTH="29" VPOS="2900" HPOS="830"/>
+							<String ID="string_256" HPOS="859" VPOS="2885" WIDTH="226" HEIGHT="65" WC="0.96" CONTENT="algunos"/><SP WIDTH="29" VPOS="2885" HPOS="1085"/>
+							<String ID="string_257" HPOS="1114" VPOS="2886" WIDTH="208" HEIGHT="64" WC="0.96" CONTENT="amigos"/><SP WIDTH="29" VPOS="2886" HPOS="1322"/>
+							<String ID="string_258" HPOS="1351" VPOS="2886" WIDTH="82" HEIGHT="51" WC="0.96" CONTENT="del"/><SP WIDTH="42" VPOS="2886" HPOS="1433"/>
+							<String ID="string_259" HPOS="1475" VPOS="2886" WIDTH="300" HEIGHT="65" WC="0.96" CONTENT="guitarrista"/><SP WIDTH="30" VPOS="2886" HPOS="1775"/>
+							<String ID="string_260" HPOS="1805" VPOS="2902" WIDTH="103" HEIGHT="50" WC="0.96" CONTENT="que"/><SP WIDTH="29" VPOS="2902" HPOS="1908"/>
+							<String ID="string_261" HPOS="1937" VPOS="2888" WIDTH="46" HEIGHT="49" WC="0.96" CONTENT="le"/><SP WIDTH="44" VPOS="2888" HPOS="1983"/>
+							<String ID="string_262" HPOS="2027" VPOS="2889" WIDTH="140" HEIGHT="60" WC="0.95" CONTENT="oían,"/><SP WIDTH="34" VPOS="2889" HPOS="2167"/>
+							<String ID="string_263" HPOS="2201" VPOS="2888" WIDTH="48" HEIGHT="50" WC="0.93" CONTENT="la"/><SP WIDTH="27" VPOS="2888" HPOS="2249"/>
+							<String ID="string_264" HPOS="2276" VPOS="2902" WIDTH="151" HEIGHT="51" WC="0.92" CONTENT="repe-"/>
+						</TextLine>
+						<TextLine ID="line_30" HPOS="572" VPOS="2970" WIDTH="1884" HEIGHT="65">
+							<String ID="string_265" HPOS="572" VPOS="2970" WIDTH="155" HEIGHT="51" WC="0.92" CONTENT="tición"/><SP WIDTH="31" VPOS="2970" HPOS="727"/>
+							<String ID="string_266" HPOS="758" VPOS="2970" WIDTH="66" HEIGHT="51" WC="0.96" CONTENT="de"/><SP WIDTH="36" VPOS="2970" HPOS="824"/>
+							<String ID="string_267" HPOS="860" VPOS="2984" WIDTH="65" HEIGHT="36" WC="0.96" CONTENT="un"/><SP WIDTH="42" VPOS="2984" HPOS="925"/>
+							<String ID="string_268" HPOS="967" VPOS="2984" WIDTH="135" HEIGHT="51" WC="0.96" CONTENT="paso"/><SP WIDTH="30" VPOS="2984" HPOS="1102"/>
+							<String ID="string_269" HPOS="1132" VPOS="2984" WIDTH="103" HEIGHT="51" WC="0.96" CONTENT="que"/><SP WIDTH="39" VPOS="2984" HPOS="1235"/>
+							<String ID="string_270" HPOS="1274" VPOS="2971" WIDTH="77" HEIGHT="49" WC="0.96" CONTENT="les"/><SP WIDTH="46" VPOS="2971" HPOS="1351"/>
+							<String ID="string_271" HPOS="1397" VPOS="2970" WIDTH="157" HEIGHT="51" WC="0.96" CONTENT="había"/><SP WIDTH="40" VPOS="2970" HPOS="1554"/>
+							<String ID="string_272" HPOS="1594" VPOS="2972" WIDTH="421" HEIGHT="62" WC="0.96" CONTENT="entusiasmado,"/><SP WIDTH="46" VPOS="2972" HPOS="2015"/>
+							<String ID="string_273" HPOS="2061" VPOS="2972" WIDTH="48" HEIGHT="50" WC="0.85" CONTENT="ni"/><SP WIDTH="42" VPOS="2972" HPOS="2109"/>
+							<String ID="string_274" HPOS="2151" VPOS="2973" WIDTH="45" HEIGHT="49" WC="0.96" CONTENT="él"/><SP WIDTH="44" VPOS="2973" HPOS="2196"/>
+							<String ID="string_275" HPOS="2240" VPOS="2973" WIDTH="216" HEIGHT="50" WC="0.85" CONTENT="mismo"/><SP WIDTH="-45" VPOS="2973" HPOS="2456"/>
+							<String ID="string_276" HPOS="2411" VPOS="2966" WIDTH="26" HEIGHT="74" WC="0.75" CONTENT="."/>
+						</TextLine>
+						<TextLine ID="line_31" HPOS="573" VPOS="3054" WIDTH="1855" HEIGHT="66">
+							<String ID="string_277" HPOS="573" VPOS="3054" WIDTH="321" HEIGHT="51" WC="0.93" CONTENT="encontraba"/><SP WIDTH="27" VPOS="3054" HPOS="894"/>
+							<String ID="string_278" HPOS="921" VPOS="3057" WIDTH="224" HEIGHT="63" WC="0.36" CONTENT="imanera"/><SP WIDTH="29" VPOS="3057" HPOS="1145"/>
+							<String ID="string_279" HPOS="1174" VPOS="3054" WIDTH="67" HEIGHT="51" WC="0.96" CONTENT="de"/><SP WIDTH="27" VPOS="3054" HPOS="1241"/>
+							<String ID="string_280" HPOS="1268" VPOS="3055" WIDTH="264" HEIGHT="65" WC="0.96" CONTENT="repetirlo,"/><SP WIDTH="34" VPOS="3055" HPOS="1532"/>
+							<String ID="string_281" HPOS="1566" VPOS="3055" WIDTH="327" HEIGHT="62" WC="0.96" CONTENT="resultando,"/><SP WIDTH="33" VPOS="3055" HPOS="1893"/>
+							<String ID="string_282" HPOS="1926" VPOS="3071" WIDTH="65" HEIGHT="35" WC="0.96" CONTENT="en"/><SP WIDTH="43" VPOS="3071" HPOS="1991"/>
+							<String ID="string_283" HPOS="2034" VPOS="3057" WIDTH="206" HEIGHT="51" WC="0.96" CONTENT="cambio"/><SP WIDTH="41" VPOS="3057" HPOS="2240"/>
+							<String ID="string_284" HPOS="2281" VPOS="3060" WIDTH="147" HEIGHT="47" WC="0.96" CONTENT="otros"/>
+						</TextLine>
+						<TextLine ID="line_32" HPOS="573" VPOS="3138" WIDTH="1854" HEIGHT="68">
+							<String ID="string_285" HPOS="573" VPOS="3138" WIDTH="221" HEIGHT="52" WC="0.96" CONTENT="muchos"/><SP WIDTH="27" VPOS="3138" HPOS="794"/>
+							<String ID="string_286" HPOS="821" VPOS="3142" WIDTH="87" HEIGHT="47" WC="0.96" CONTENT="tan"/><SP WIDTH="31" VPOS="3142" HPOS="908"/>
+							<String ID="string_287" HPOS="939" VPOS="3154" WIDTH="208" HEIGHT="36" WC="0.96" CONTENT="nuevos"/><SP WIDTH="46" VPOS="3154" HPOS="1147"/>
+							<String ID="string_288" HPOS="1193" VPOS="3156" WIDTH="33" HEIGHT="48" WC="0.96" CONTENT="y"/><SP WIDTH="42" VPOS="3156" HPOS="1226"/>
+							<String ID="string_289" HPOS="1268" VPOS="3140" WIDTH="415" HEIGHT="64" WC="0.96" CONTENT="sorprendentes"/><SP WIDTH="30" VPOS="3140" HPOS="1683"/>
+							<String ID="string_290" HPOS="1713" VPOS="3154" WIDTH="155" HEIGHT="37" WC="0.96" CONTENT="como"/><SP WIDTH="28" VPOS="3154" HPOS="1868"/>
+							<String ID="string_291" HPOS="1896" VPOS="3141" WIDTH="46" HEIGHT="50" WC="0.96" CONTENT="el"/><SP WIDTH="32" VPOS="3141" HPOS="1942"/>
+							<String ID="string_292" HPOS="1974" VPOS="3141" WIDTH="244" HEIGHT="65" WC="0.96" CONTENT="primero."/><SP WIDTH="34" VPOS="3141" HPOS="2218"/>
+							<String ID="string_293" HPOS="2252" VPOS="3141" WIDTH="175" HEIGHT="51" WC="0.96" CONTENT="Murió"/>
+						</TextLine>
+						<TextLine ID="line_33" HPOS="573" VPOS="3222" WIDTH="1853" HEIGHT="69">
+							<String ID="string_294" HPOS="573" VPOS="3237" WIDTH="65" HEIGHT="36" WC="0.96" CONTENT="en"/><SP WIDTH="33" VPOS="3237" HPOS="638"/>
+							<String ID="string_295" HPOS="671" VPOS="3222" WIDTH="251" HEIGHT="52" WC="0.96" CONTENT="Granada"/><SP WIDTH="28" VPOS="3222" HPOS="922"/>
+							<String ID="string_296" HPOS="950" VPOS="3238" WIDTH="64" HEIGHT="36" WC="0.96" CONTENT="en"/><SP WIDTH="29" VPOS="3238" HPOS="1014"/>
+							<String ID="string_297" HPOS="1043" VPOS="3224" WIDTH="140" HEIGHT="61" WC="0.96" CONTENT="Julio"/><SP WIDTH="29" VPOS="3224" HPOS="1183"/>
+							<String ID="string_298" HPOS="1212" VPOS="3224" WIDTH="67" HEIGHT="51" WC="0.95" CONTENT="de"/><SP WIDTH="32" VPOS="3224" HPOS="1279"/>
+							<String ID="string_299" HPOS="1311" VPOS="3222" WIDTH="150" HEIGHT="52" WC="0.95" CONTENT="1848."/><SP WIDTH="34" VPOS="3222" HPOS="1461"/>
+							<String ID="string_300" HPOS="1495" VPOS="3223" WIDTH="189" HEIGHT="52" WC="0.96" CONTENT="Añade"/><SP WIDTH="27" VPOS="3223" HPOS="1684"/>
+							<String ID="string_301" HPOS="1711" VPOS="3224" WIDTH="46" HEIGHT="50" WC="0.96" CONTENT="el"/><SP WIDTH="50" VPOS="3224" HPOS="1757"/>
+							<String ID="string_302" HPOS="1807" VPOS="3228" WIDTH="232" HEIGHT="48" WC="0.95" CONTENT="maestro"/><SP WIDTH="47" VPOS="3228" HPOS="2039"/>
+							<String ID="string_303" HPOS="2086" VPOS="3225" WIDTH="254" HEIGHT="66" WC="0.96" CONTENT="Vazquez"/><SP WIDTH="40" VPOS="3225" HPOS="2340"/>
+							<String ID="string_304" HPOS="2380" VPOS="3226" WIDTH="46" HEIGHT="51" WC="0.96" CONTENT="al"/>
+						</TextLine>
+						<TextLine ID="line_34" HPOS="574" VPOS="3307" WIDTH="1853" HEIGHT="69">
+							<String ID="string_305" HPOS="574" VPOS="3308" WIDTH="245" HEIGHT="50" WC="0.96" CONTENT="terminar"/><SP WIDTH="28" VPOS="3308" HPOS="819"/>
+							<String ID="string_306" HPOS="847" VPOS="3308" WIDTH="46" HEIGHT="50" WC="0.96" CONTENT="la"/><SP WIDTH="28" VPOS="3308" HPOS="893"/>
+							<String ID="string_307" HPOS="921" VPOS="3307" WIDTH="259" HEIGHT="66" WC="0.49" CONTENT="biografía"/><SP WIDTH="41" VPOS="3307" HPOS="1180"/>
+							<String ID="string_308" HPOS="1221" VPOS="3308" WIDTH="67" HEIGHT="51" WC="0.96" CONTENT="de"/><SP WIDTH="29" VPOS="3308" HPOS="1288"/>
+							<String ID="string_309" HPOS="1317" VPOS="3308" WIDTH="302" HEIGHT="65" WC="0.94" CONTENT="Rodriguez"/><SP WIDTH="40" VPOS="3308" HPOS="1619"/>
+							<String ID="string_310" HPOS="1659" VPOS="3308" WIDTH="277" HEIGHT="52" WC="0.94" CONTENT="Murciano"/><SP WIDTH="31" VPOS="3308" HPOS="1936"/>
+							<String ID="string_311" HPOS="1967" VPOS="3324" WIDTH="103" HEIGHT="51" WC="0.96" CONTENT="que"/><SP WIDTH="39" VPOS="3324" HPOS="2070"/>
+							<String ID="string_312" HPOS="2109" VPOS="3308" WIDTH="90" HEIGHT="53" WC="0.96" CONTENT="fué"/><SP WIDTH="40" VPOS="3308" HPOS="2199"/>
+							<String ID="string_313" HPOS="2239" VPOS="3310" WIDTH="46" HEIGHT="51" WC="0.90" CONTENT="el"/><SP WIDTH="43" VPOS="3310" HPOS="2285"/>
+							<String ID="string_314" HPOS="2328" VPOS="3311" WIDTH="99" HEIGHT="65" WC="0.90" CONTENT="pri-"/>
+						</TextLine>
+						<TextLine ID="line_35" HPOS="576" VPOS="3392" WIDTH="1853" HEIGHT="68">
+							<String ID="string_315" HPOS="576" VPOS="3406" WIDTH="144" HEIGHT="36" WC="0.96" CONTENT="mero"/><SP WIDTH="23" VPOS="3406" HPOS="720"/>
+							<String ID="string_316" HPOS="743" VPOS="3407" WIDTH="104" HEIGHT="50" WC="0.96" CONTENT="que"/><SP WIDTH="38" VPOS="3407" HPOS="847"/>
+							<String ID="string_317" HPOS="885" VPOS="3393" WIDTH="124" HEIGHT="64" WC="0.96" CONTENT="bajo"/><SP WIDTH="24" VPOS="3393" HPOS="1009"/>
+							<String ID="string_318" HPOS="1033" VPOS="3407" WIDTH="61" HEIGHT="36" WC="0.96" CONTENT="su"/><SP WIDTH="41" VPOS="3407" HPOS="1094"/>
+							<String ID="string_319" HPOS="1135" VPOS="3393" WIDTH="260" HEIGHT="51" WC="0.96" CONTENT="dirección"/><SP WIDTH="43" VPOS="3393" HPOS="1395"/>
+							<String ID="string_320" HPOS="1438" VPOS="3407" WIDTH="60" HEIGHT="36" WC="0.96" CONTENT="se"/><SP WIDTH="28" VPOS="3407" HPOS="1498"/>
+							<String ID="string_321" HPOS="1526" VPOS="3392" WIDTH="119" HEIGHT="51" WC="0.96" CONTENT="hizo"/><SP WIDTH="29" VPOS="3392" HPOS="1645"/>
+							<String ID="string_322" HPOS="1674" VPOS="3394" WIDTH="257" HEIGHT="50" WC="0.96" CONTENT="construir"/><SP WIDTH="29" VPOS="3394" HPOS="1931"/>
+							<String ID="string_323" HPOS="1960" VPOS="3409" WIDTH="102" HEIGHT="36" WC="0.96" CONTENT="una"/><SP WIDTH="39" VPOS="3409" HPOS="2062"/>
+							<String ID="string_324" HPOS="2101" VPOS="3396" WIDTH="231" HEIGHT="64" WC="0.96" CONTENT="guitarra"/><SP WIDTH="29" VPOS="3396" HPOS="2332"/>
+							<String ID="string_325" HPOS="2361" VPOS="3395" WIDTH="68" HEIGHT="52" WC="0.96" CONTENT="de"/>
+						</TextLine>
+						<TextLine ID="line_36" HPOS="575" VPOS="3476" WIDTH="1852" HEIGHT="68">
+							<String ID="string_326" HPOS="575" VPOS="3477" WIDTH="134" HEIGHT="50" WC="0.96" CONTENT="siete"/><SP WIDTH="28" VPOS="3477" HPOS="709"/>
+							<String ID="string_327" HPOS="737" VPOS="3476" WIDTH="246" HEIGHT="63" WC="0.88" CONTENT="órdenes,"/><SP WIDTH="33" VPOS="3476" HPOS="983"/>
+							<String ID="string_328" HPOS="1016" VPOS="3477" WIDTH="46" HEIGHT="50" WC="0.96" CONTENT="la"/><SP WIDTH="29" VPOS="3477" HPOS="1062"/>
+							<String ID="string_329" HPOS="1091" VPOS="3477" WIDTH="114" HEIGHT="52" WC="0.96" CONTENT="cual"/><SP WIDTH="31" VPOS="3477" HPOS="1205"/>
+							<String ID="string_330" HPOS="1236" VPOS="3477" WIDTH="280" HEIGHT="65" WC="0.96" CONTENT="empleaba"/><SP WIDTH="28" VPOS="3477" HPOS="1516"/>
+							<String ID="string_331" HPOS="1544" VPOS="3478" WIDTH="419" HEIGHT="65" WC="0.96" CONTENT="especialmente"/><SP WIDTH="28" VPOS="3478" HPOS="1963"/>
+							<String ID="string_332" HPOS="1991" VPOS="3493" WIDTH="128" HEIGHT="51" WC="0.96" CONTENT="para"/><SP WIDTH="28" VPOS="3493" HPOS="2119"/>
+							<String ID="string_333" HPOS="2147" VPOS="3483" WIDTH="148" HEIGHT="48" WC="0.96" CONTENT="tocar"/><SP WIDTH="29" VPOS="3483" HPOS="2295"/>
+							<String ID="string_334" HPOS="2324" VPOS="3494" WIDTH="103" HEIGHT="38" WC="0.96" CONTENT="una"/>
+						</TextLine>
+						<TextLine ID="line_37" HPOS="572" VPOS="3559" WIDTH="962" HEIGHT="67">
+							<String ID="string_335" HPOS="572" VPOS="3576" WIDTH="129" HEIGHT="50" WC="0.57" CONTENT="eran"/><SP WIDTH="29" VPOS="3576" HPOS="701"/>
+							<String ID="string_336" HPOS="730" VPOS="3559" WIDTH="271" HEIGHT="53" WC="0.92" CONTENT="Rondeña"/><SP WIDTH="29" VPOS="3559" HPOS="1001"/>
+							<String ID="string_337" HPOS="1030" VPOS="3576" WIDTH="64" HEIGHT="36" WC="0.96" CONTENT="en"/><SP WIDTH="31" VPOS="3576" HPOS="1094"/>
+							<String ID="string_338" HPOS="1125" VPOS="3562" WIDTH="65" HEIGHT="50" WC="0.96" CONTENT="mi"/><SP WIDTH="30" VPOS="3562" HPOS="1190"/>
+							<String ID="string_339" HPOS="1220" VPOS="3577" WIDTH="199" HEIGHT="36" WC="0.96" CONTENT="menor."/><SP WIDTH="35" VPOS="3577" HPOS="1419"/>
+							<String ID="string_340" HPOS="1454" VPOS="3559" WIDTH="80" HEIGHT="67" WC="0.96" CONTENT="(1)"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="573" VPOS="3686" WIDTH="167" HEIGHT="7">
+					<TextBlock ID="block_4" HPOS="573" VPOS="3686" WIDTH="167" HEIGHT="7">
+						<TextLine ID="line_38" HPOS="573" VPOS="3686" WIDTH="167" HEIGHT="7">
+							<String ID="string_341" HPOS="573" VPOS="3686" WIDTH="167" HEIGHT="7" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_5" HPOS="572" VPOS="3756" WIDTH="1854" HEIGHT="128">
+					<TextBlock ID="block_5" HPOS="572" VPOS="3756" WIDTH="1854" HEIGHT="128">
+						<TextLine ID="line_39" HPOS="655" VPOS="3756" WIDTH="1771" HEIGHT="58">
+							<String ID="string_342" HPOS="655" VPOS="3756" WIDTH="64" HEIGHT="53" WC="0.93" CONTENT="(1)"/><SP WIDTH="59" VPOS="3756" HPOS="719"/>
+							<String ID="string_343" HPOS="778" VPOS="3756" WIDTH="157" HEIGHT="43" WC="0.93" CONTENT="Véase"/><SP WIDTH="24" VPOS="3756" HPOS="935"/>
+							<String ID="string_344" HPOS="959" VPOS="3756" WIDTH="222" HEIGHT="43" WC="0.31" CONTENT="APÉNDICE"/><SP WIDTH="23" VPOS="3756" HPOS="1181"/>
+							<String ID="string_345" HPOS="1204" VPOS="3770" WIDTH="42" HEIGHT="29" WC="0.54" CONTENT="Iv"/><SP WIDTH="32" VPOS="3770" HPOS="1246"/>
+							<String ID="string_346" HPOS="1278" VPOS="3770" WIDTH="55" HEIGHT="29" WC="0.96" CONTENT="en"/><SP WIDTH="23" VPOS="3770" HPOS="1333"/>
+							<String ID="string_347" HPOS="1356" VPOS="3770" WIDTH="88" HEIGHT="41" WC="0.96" CONTENT="que"/><SP WIDTH="33" VPOS="3770" HPOS="1444"/>
+							<String ID="string_348" HPOS="1477" VPOS="3770" WIDTH="53" HEIGHT="29" WC="0.96" CONTENT="se"/><SP WIDTH="23" VPOS="3770" HPOS="1530"/>
+							<String ID="string_349" HPOS="1553" VPOS="3757" WIDTH="135" HEIGHT="43" WC="0.96" CONTENT="habla"/><SP WIDTH="34" VPOS="3757" HPOS="1688"/>
+							<String ID="string_350" HPOS="1722" VPOS="3758" WIDTH="56" HEIGHT="42" WC="0.96" CONTENT="de"/><SP WIDTH="24" VPOS="3758" HPOS="1778"/>
+							<String ID="string_351" HPOS="1802" VPOS="3771" WIDTH="89" HEIGHT="30" WC="0.93" CONTENT="una"/><SP WIDTH="36" VPOS="3771" HPOS="1891"/>
+							<String ID="string_352" HPOS="1927" VPOS="3758" WIDTH="227" HEIGHT="44" WC="0.91" CONTENT="Gallarda"/><SP WIDTH="32" VPOS="3758" HPOS="2154"/>
+							<String ID="string_353" HPOS="2186" VPOS="3759" WIDTH="73" HEIGHT="43" WC="0.96" CONTENT="del"/><SP WIDTH="25" VPOS="3759" HPOS="2259"/>
+							<String ID="string_354" HPOS="2284" VPOS="3763" WIDTH="142" HEIGHT="51" WC="0.78" CONTENT="poeta"/>
+						</TextLine>
+						<TextLine ID="line_40" HPOS="572" VPOS="3827" WIDTH="727" HEIGHT="57">
+							<String ID="string_355" HPOS="572" VPOS="3827" WIDTH="244" HEIGHT="52" WC="0.96" CONTENT="cordobés,"/><SP WIDTH="28" VPOS="3827" HPOS="816"/>
+							<String ID="string_356" HPOS="844" VPOS="3828" WIDTH="188" HEIGHT="52" WC="0.96" CONTENT="músico,"/><SP WIDTH="28" VPOS="3828" HPOS="1032"/>
+							<String ID="string_357" HPOS="1060" VPOS="3827" WIDTH="239" HEIGHT="57" WC="0.96" CONTENT="Góngora."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_6" HPOS="3068" VPOS="0" WIDTH="88" HEIGHT="4648">
+					<TextBlock ID="block_6" HPOS="3068" VPOS="0" WIDTH="88" HEIGHT="4648">
+						<TextLine ID="line_41" HPOS="3068" VPOS="0" WIDTH="88" HEIGHT="4648">
+							<String ID="string_358" HPOS="3068" VPOS="0" WIDTH="88" HEIGHT="4648" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
