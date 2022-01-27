@@ -1431,6 +1431,13 @@
 							"on": "https://7bf6e350-6ebe-487c-a499-682744d80312"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://vidalsantos.github.io/iiif_test.github.io/iiif/AltoJson/CancoDeBatre.json",
+        "@type": "sc:AnnotationList",
+        "label": "Transcript"
+    }
+],
 					"related": ""
 				}
 			]
